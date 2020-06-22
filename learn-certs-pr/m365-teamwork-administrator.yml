@@ -2,19 +2,26 @@
 title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
-  description: Администраторы Microsoft 365 Teamwork настраивают, разворачивают и управляют рабочими нагрузками Office 365, ориентированными на эффективное и действенное сотрудничество, например SharePoint (онлайн, локально и гибридно), OneDrive и Команды (Teams).
+  description: 'Администраторы Microsoft 365 Teamwork настраивают, разворачивают и управляют рабочими нагрузками Office 365, ориентированными на эффективное и действенное сотрудничество, например SharePoint (онлайн, локально и гибридно), OneDrive и Команды (Teams).'
 uid: certification.m365-teamwork-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Администраторы Microsoft 365 Teamwork настраивают, разворачивают и управляют рабочими нагрузками Office 365, ориентированными на эффективное и действенное сотрудничество, например SharePoint (онлайн, локально и гибридно), OneDrive и Команды (Teams).
+summary: |-
+  <div>
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  <div><strong>Данная сертификация будет аннулирована 31 август 2020 года. Вы больше не сможете получить данный сертификат после этой даты. Любые сертификаты, полученные вами до даты отмены сертификации, будут по-прежнему отображаться в вашей выписке об успеваемости в <a href="https://www.microsoft.com/learning/dashboard.aspx">панели Сертификации</a>.</strong><br/><br/></div>
+  </div>
+
+  Администраторы Microsoft 365 Teamwork настраивают, разворачивают и управляют рабочими нагрузками Office 365, ориентированными на эффективное и действенное сотрудничество, например SharePoint (онлайн, локально и гибридно), OneDrive и Команды (Teams).
 subTitle: Администраторы Microsoft 365 Teamwork настраивают, разворачивают и управляют рабочими нагрузками Office 365, ориентированными на эффективное и действенное сотрудничество, например SharePoint (онлайн, локально и гибридно), OneDrive и Команды (Teams).
 levels:
 - intermediate
 skills:
+- 'Примечание: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
 - Настройка и управление SharePoint Online
 - Настройка решения OneDrive для бизнеса и управление им
 - Настройка и управление командами
 - Настройка и управление интеграциями рабочей нагрузки
-- Настройка и управление локальным SharePoint
+- Настройка и управление SharePoint on-premises
 - Настройка и управление гибридными сценариями
 - Перенос в SharePoint Online
 roles:
@@ -43,20 +50,21 @@ exams:
 - uid: exam.ms-301
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft 365 Certified: Teamwork Administrator Associate.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Teamwork Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Повтор экзамена
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

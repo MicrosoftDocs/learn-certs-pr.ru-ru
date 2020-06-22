@@ -1,69 +1,72 @@
 ### YamlMime:Examination
 title: Managing Modern Desktops
 metadata:
-  title: 'Экзамен MD-101: Managing Modern Desktops'
-  description: 'Экзамен MD-101: Managing Modern Desktops'
+  title: 'Exam MD-101: Managing Modern Desktops'
+  description: 'Exam MD-101: Managing Modern Desktops'
 uid: exam.md-101
 displayName: MD-101
-summary: >-
-  Если вы сдали [Экзамен 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) до его истечения 31 марта 2019 года, вам нужно всего лишь сдать MD-101, чтобы получить сертификат по современным ПК. Кандидатами на этот экзамен являются администраторы, которые развертывают, настраивают, защищают, управляют и отслеживают устройства и клиентские приложения в корпоративной среде. Кандидаты управляют идентификацией, доступом, политиками, обновлениями и приложениями.
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
 
+  Если вы успешно сдадите [Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) до его истечения 31 марта 2019 года, вам нужно всего лишь сдать MD-101, чтобы получить сертификат по современным ПК. Кандидатами на этот экзамен являются администраторы, которые развертывают, настраивают, защищают, управляют и отслеживают устройства и клиентские приложения в корпоративной среде. Кандидаты управляют идентификацией, доступом, политиками, обновлениями и приложениями.
   <br/>
-
 
   Будучи администраторами, кандидаты регулярно сотрудничают с администратором Microsoft 365 Enterprise в проектировании и реализации стратегии для устройств, которые соответствуют бизнес-целям современной организации.
 
-  <br/>
-
-
   Кандидаты должны быть знакомы с рабочими пространствами Microsoft 365, должны обладать навыками и опытом в развертывании, настройке и поддержке устройств и технологий под Windows 10 и другими ОС.
-subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: развертывание и обновление операционных систем; управление политиками и профилями; управление и защита устройств; а также управление приложениями и данными. Если вы сдали Экзамен 70-698 до его истечения 31 марта 2019 года, вам нужно всего лишь сдать MD-101, чтобы получить сертификат по современным ПК.'
+subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: развертывание и обновление операционных систем; управление политиками и профилями; управление и защита устройств; а также управление приложениями и данными. Если вы сдали Exam 70-698 до его истечения 31 марта 2019 года, вам нужно всего лишь сдать MD-101, чтобы получить сертификат по современным ПК.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD
 practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MD-101&examname=Exam%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MD-101&examname=Экзамен%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 levels:
 - intermediate
 skills:
-- Развертывание и обновление операционных систем (15-20%)
-- Управление политиками и профилями (35-40%)
-- Управление и защита устройств (15-20%)
-- Управление приложениями и данными (25-30%)
+- Развертывание и обновление операционных систем (35-40%)
+- Управление политиками и профилями (25-30%)
+- Управление и защита устройств (20-25%)
+- Управление приложениями и данными (10-15%)
 roles:
 - administrator
-exams:
-- uid: exam.md-100
 products:
 - m365
 - windows
+exams:
+- uid: exam.md-100
 courses:
-- uid: course.md-101t01
-- uid: course.md-101t02
-- uid: course.md-101t03
+- uid: course.md-101t00
+paths:
+- uid: learn-wwl.modernize-workplace-with-m365-and-surface-v1-1
+- uid: learn-m365.microsoft-365-get-modern
+- uid: learn-m365.manage-enterprise-deployment-m365
 relatedCertifications:
 - related:
     uid: certification.modern-desktop
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Modern Desktop Administrator Associate.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Modern Desktop Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
-- title: Руководство по обучению и сертификации
+- title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Повтор экзамена
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: ../help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Запрос специальных условий
   description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md
+

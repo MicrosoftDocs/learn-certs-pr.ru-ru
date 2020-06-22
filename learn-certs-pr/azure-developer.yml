@@ -2,12 +2,20 @@
 title: 'Microsoft Certified: Azure Developer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Developer Associate'
-  description: Разработчики Microsoft Azure проектируют, создают, тестируют и обслуживают облачные решения, такие как приложения и службы, сотрудничая с архитекторами облачных решений, облако DBA, администраторами облачных сред и клиентами для реализации этих решений.
+  description: 'Разработчики Azure проектируют, создают, тестируют и обслуживают облачные приложения и службы.'
 uid: certification.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Разработчики Microsoft Azure проектируют, создают, тестируют и обслуживают облачные решения, такие как приложения и службы, сотрудничая с архитекторами облачных решений, облако DBA, администраторами облачных сред и клиентами для реализации этих решений.
-subTitle: Разработчики Microsoft Azure проектируют, создают, тестируют и обслуживают облачные решения, такие как приложения и службы, сотрудничая с архитекторами облачных решений, облако DBA, администраторами облачных сред и клиентами для реализации этих решений.
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></font></div>
+
+  Кандидаты на сертификацию разработчика Azure Developer Associate должны иметь опыт разработки, создания, тестирования и обслуживания облачных приложений и служб в Microsoft Azure.
+
+  Обязанности этой роли включают участие во всех этапах разработки облачных вычислений, от определения требований и проектирования до разработки, развертывания и обслуживания. настройки производительности и мониторинга.
+
+  Для реализации решений разработчики Azure сотрудничают с архитекторами облачных решений, облачными администраторами баз данных, облачными администраторами и непосредственно с клиентами.
+
+  Кандидат на получение сертификата должен иметь 1-2-летний опыт профессионального развития и опыт работы с Microsoft Azure. Кроме того, в этой роли нужно уметь программировать на языке, поддерживаемом Azure, а также знать Azure SDK, параметры хранения данных, подключение к данным, API, аутентификацию и авторизацию приложений, развертывание вычислений и контейнеров, отладку, настройку производительности и мониторинг.
+subTitle: Разработчики Azure проектируют, создают, тестируют и обслуживают облачные приложения и службы.
 levels:
 - intermediate
 skills:
@@ -31,12 +39,8 @@ products:
 - azure-functions
 - azure-logic-apps
 courses:
-- uid: course.az-203t01
-- uid: course.az-203t02
-- uid: course.az-203t03
-- uid: course.az-203t04
-- uid: course.az-203t05
-- uid: course.az-203t06
+- uid: course.az-204t00
+- uid: course.az-020t00
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together
@@ -54,21 +58,25 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJU
 exams:
 - uid: exam.az-204
 resources:
-- title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Azure Developer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
-- title: Руководство по обучению и сертификации
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+- title: Плакат с сертификатами Azure
+  description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Путешествие к сертификации
+  description: Узнайте о том, как пройти сертификацию в качестве ассоциированного разработчика Azure, и какие ресурсы помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
-- title: Поддержка сертификационных
-  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

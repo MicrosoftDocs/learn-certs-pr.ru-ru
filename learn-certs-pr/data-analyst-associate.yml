@@ -6,7 +6,7 @@ metadata:
 uid: certification.data-analyst-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
 
   Data Analysts помогают компаниям максимизировать стоимость своих активов данных с помощью Microsoft Power BI. Являясь экспертом в данной области, Data Analyst отвечает за проектирование и построение масштабируемых моделей данных, очистку и преобразование данных, а также за предоставление расширенных аналитических возможностей, которые обеспечивают значимую ценность для бизнеса с помощью простой для понимания визуализации данных.
 subTitle: Data Analysts помогают компаниям максимизировать стоимость своих активов данных с помощью Microsoft Power BI.
@@ -23,21 +23,26 @@ roles:
 type: role-based
 products:
 - power-bi
+courses:
+- uid: course.da-100t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6
 exams:
 - uid: exam.da-100
 resources:
+- title: Плакат с сертификатами Azure
+  description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации
-  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.

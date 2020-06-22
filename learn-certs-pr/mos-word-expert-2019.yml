@@ -2,11 +2,16 @@
 title: 'Microsoft Office Specialist: Microsoft Word Expert (Word and Word 2019)'
 metadata:
   title: 'Microsoft Office Specialist: Microsoft Word Expert (Word and Word 2019)'
-  description: 'Продемонстрируйте наличие передовых навыков, необходимых для максимального использования возможностей пакета Office, получив сертификат Microsoft Office Specialist: Сертификат Эксперта по конкретной программе Office.'
+  description: 'Продемонстрируйте, что у вас есть навыки, необходимые для максимально эффективного использования Word и заработайте сертификат Microsoft Office Specialist: Word Expert.'
 uid: certification.mos-word-expert-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: Продемонстрируйте наличие передовых навыков, необходимых для максимального использования возможностей пакета Office, получив сертификат Microsoft Office Specialist&#58; Сертификат Эксперта по конкретной программе Office.
-subTitle: 'Продемонстрируйте наличие передовых навыков, необходимых для максимального использования возможностей пакета Office, получив сертификат Microsoft Office Specialist: Сертификат Эксперта по конкретной программе Office.'
+summary: |-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+
+  Продемонстрируйте, что у вас есть навыки, необходимые для максимально эффективного использования Word и заработайте сертификат Microsoft Office Specialist&#58; Word Expert. Эта сертификация демонстрирует компетентность в создании профессиональных документов и управлении ими для различных специализированных целей и ситуаций.
+
+  Человек, получивший эту сертификацию, имеет около 150 часов обучения и практического опыта работы с продуктом, доказал свою компетентность на уровне отраслевого эксперта и готов выйти на рынок труда. Они могут продемонстрировать правильное применение основных функций Word на экспертном уровне и могут самостоятельно выполнять задачи.
+subTitle: 'Продемонстрируйте, что у вас есть навыки, необходимые для максимально эффективного использования Word и заработайте сертификат Microsoft Office Specialist: Word Expert.'
 levels:
 - advanced
 skills:
@@ -24,15 +29,16 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WHJ
 exams:
 - uid: exam.mo-101
 resources:
-- title: Руководство по обучению и сертификации
+- title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Повтор экзамена
+- title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
-- title: Поддержка сертификационных
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

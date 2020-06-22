@@ -1,6 +1,6 @@
 ---
-title: Отмененные курсы Microsoft | Microsoft Docs
-description: Отмененные курсы Microsoft
+title: Microsoft Retired Courses | Microsoft Docs
+description: Microsoft Retired Courses
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -137,6 +137,23 @@ ms.author: micsullivan
     | 23697-1 | B | Installing and Configuring Windows 10 | японский | 30/06/2020 |
     | 23697-2 | B | Deploying and Managing Windows 10 Using Enterprise Services | японский | 30/06/2020 |
 
+* Отмены курсов на 29 мая 2020 года
+
+    | Курс № | Версия | Название | Язык | Дата отмены |
+    | --- | --- | --- | --- | --- |
+    | AZ-400T01 | A | Implementing DevOps Development Processes | Английский | 29/05/2020 |
+    | AZ-400T02 | A | Implementing Continuous Integration | Английский | 29/05/2020 |
+    | AZ-400T03 | A | Implementing Continuous Delivery | Английский | 29/05/2020 |
+    | AZ-400T04 | A | Implementing Dependency Management | Английский | 29/05/2020 |
+    | AZ-400T05 | A | Implementing Application Infrastructure | Английский | 29/05/2020 |
+    | AZ-400T06 | A | Implementing Continuous Feedback | Английский | 29/05/2020 |
+    | AZ-400T07 | A | Designing a DevOps Strategy | Английский | 29/05/2020 |
+    | MS-500T01 | A | Managing Microsoft 365 Identity and Access | Английский | 29/05/2020 |
+    | MS-500T02 | A | Implementing Microsoft 365 Threat Protection | Английский | 29/05/2020 |
+    | MS-500T03 | A | Implementing Microsoft 365 Information Protection | Английский | 29/05/2020 |
+    | MS-500T04 | A | Administering Microsoft 365 Built-in Compliance | Английский | 29/05/2020 |
+    | 40517 | G | Microsoft Cloud Workshop: Migrate EDW to Azure SQL Data Warehouse | Английский | 29/05/2020 |
+
 * Отмены курсов на 28 Февраль 2020 года
 
     | Курс № | Версия | Название | Язык | Дата отмены |
@@ -191,7 +208,7 @@ ms.author: micsullivan
     | MB-200T02 | A | Dynamics 365: Power Platform automation | Английский | 31/01/2020 |
     | MB-200T03 | A | Dynamics 365: Power Platform integrations | Английский | 31/01/2020 |
     | MB-200T04 | A | Dynamics 365: Power Platform test and deploy | Английский | 31/01/2020 |
-    | MB-220T01 | A | Configure settings and core functionality in Dynamics 365 for Marketing  | Английский | 31/01/2020 |
+    | MB-220T01 | A | Configure settings and core functionality in Dynamics 365 for Marketing | Английский | 31/01/2020 |
     | MB-220T02 | A | Set Up events and surveys in Dynamics 365 for Marketing     | Английский | 31/01/2020 |
     | MB-240T01 | A | Configuring Dynamics 365 for Field Service | Английский | 31/01/2020 |
     | MB-240T02 | A | Work order and delivery execution for Dynamics 365 for Field Service | Английский | 31/01/2020 |
@@ -502,14 +519,14 @@ ms.author: micsullivan
     | 2145 | B | Verwalten Einer Microsoft® Windows Server 2003-Umgebung | Немецкий | 30 июня 2018
     | 2149 | B | Maintenance D'un Environnement Microsoft® Windows Server 2003 | Французский | 30 июня 2018
     | 2163 | B | Warten Einer Microsoft® Windows Server™ 2003-Umgebung | Немецкий | 30 июня 2018
-    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003 : services réseau | Французский | 30 июня 2018
+    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003: services réseau | Французский | 30 июня 2018
     | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | Немецкий | 30 июня 2018
     | 2194 | A | Planification, implémentation et maintenance d’une infrastructure Active Directory® Microsoft® Windows Server™ 2003 | Французский | 30 июня 2018
     | 2226 | B | Instalação, configuração e administração do Microsoft® Windows® XP Professional | Португальский | 30 июня 2018
     | 2261 | C | Supporting Users Running the Microsoft® Windows® XP Operating System | Английский | 30/6/2018
     | 2272 | C | Implementing and Supporting Microsoft® Windows® XP Professional | Английский | 30/6/2018
     | 2285 | B | Installing, Configuring & Administering Microsoft® Windows® XP Professional | Английский | 30/6/2018
-    | 2311 | A | Advanced Web Application Development using Microsoft® ASP.NET  | Английский | 30/6/2018
+    | 2311 | A | Advanced Web Application Development using Microsoft® ASP.NET | Английский | 30/6/2018
     | 2335 | A | Assistance aux utilisateurs exécutant le système d'exploitation Microsoft® Windows® XP | Французский | 30 июня 2018
     | 2336 | A | Assistance aux utilisateurs exécutant des applications sous le système d'exploitation Microsoft® Windows® XP | Французский | 30 июня 2018
     | 2349 | B | Programming with the Microsoft® .NET Framework Microsoft Visual C#™ .NET) | Английский | 30/6/2018
@@ -537,7 +554,7 @@ ms.author: micsullivan
     | 2606 | A | Maintaining a Microsoft® Windows Server™ 2003 Environment | Русский | 30 июня 2018
     | 2667 | A | Introduction to Programming | Английский | 30/6/2018
     | 2710 | B | Analyzing Requirements and Defining Microsoft® .NET Solution Architectures | Английский | 30/6/2018
-    | 2717 | C | Introduction to Microsoft® .NET Development  | Английский | 30/6/2018
+    | 2717 | C | Introduction to Microsoft® .NET Development | Английский | 30/6/2018
     | 2730 | A | Building Microsoft® Content Management Server 2002 Solutions | Английский | 30/6/2018
     | 2810 | A | Fundamentals of Network Security | Английский | 30/6/2018
     | 2821 | A | Designing and Managing a Microsoft® Windows® Public Key Infrastructure | Английский | 30/6/2018
@@ -553,12 +570,12 @@ ms.author: micsullivan
     | 4994 | A | Introduction to Programming Microsoft .NET Applications with Microsoft Visual Studio 2005 | Английский | 30/6/2018
     | 4995 | A | Programming with the Microsoft® .NET Framework using Microsoft Visual Studio® 2005 | Английский | 30/6/2018
     | 5047 | B | Introduction to Installing and Managing Microsoft® Exchange Server 2007 SP1 | Английский | 30/6/2018
-    | 5049 | A | Managing Messaging Security Using Microsoft Exchange Server 2007  | Английский | 30/6/2018
+    | 5049 | A | Managing Messaging Security Using Microsoft Exchange Server 2007 | Английский | 30/6/2018
     | 5050 | A | Recovering Messaging Servers and Databases Using Microsoft Exchange | Английский | 30/6/2018
     | 5051 | A | Monitoring and TroubleShooting Microsoft Exchange Server 2007 | Английский | 30/6/2018
     | 5053 | A | Designing a Messaging Infrastructure Using Microsoft Exchange Server 2007 | Английский | 30/6/2018
     | 5054 | A | Designing a High Availability Messaging Solution Using Microsoft Exchange Server 2007 | Английский | 30/6/2018
-    | 5058 | A | Project Series: Deploying Microsoft Office 2007 Professional Edition  | Английский | 30/6/2018
+    | 5058 | A | Project Series: Deploying Microsoft Office 2007 Professional Edition | Английский | 30/6/2018
     | 5060 | A | Implementing Windows® SharePoint® Services 3.0 | Английский | 30/6/2018
     | 5061 | A | Implementing Microsoft Office SharePoint Server 2007 | Английский | 30/6/2018
     | 5105 | C | Deploying Windows Vista® Business Desktops | Английский | 30/6/2018

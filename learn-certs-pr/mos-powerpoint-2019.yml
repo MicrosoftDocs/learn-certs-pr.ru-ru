@@ -2,19 +2,25 @@
 title: 'Microsoft Office Specialist: PowerPoint Associate (PowerPoint and PowerPoint 2019)'
 metadata:
   title: 'Microsoft Office Specialist: PowerPoint Associate (PowerPoint and PowerPoint 2019)'
-  description: Получение сертификата Microsoft Office Specialist (MOS) для конкретного приложения Office свидетельствует об умении максимально использовать возможности пакета Office.
+  description: 'Продемонстрируйте, что у вас есть навыки, необходимые для получения максимальной отдачи от PowerPoint и заработайте сертификат Microsoft Office Specialist: PowerPoint Associate.'
 uid: certification.mos-powerpoint-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Получение сертификата Microsoft Office Specialist (MOS) для конкретного приложения Office свидетельствует об умении максимально использовать возможности пакета Office.
-subTitle: Получение сертификата Microsoft Office Specialist (MOS) для конкретного приложения Office свидетельствует об умении максимально использовать возможности пакета Office.
+summary: |-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+
+  Продемонстрируйте, что у вас есть навыки, необходимые для получения максимальной отдачи от PowerPoint и заработайте сертификат Microsoft Office Specialist&#58; PowerPoint Associate. Этот сертификат демонстрирует умение создавать, редактировать и улучшать презентации и слайд-шоу.
+
+  Лицо, получающее эту сертификацию, имеет приблизительно 150 часов обучения и практического опыта работы с продуктом, имеет подтвержденную квалификацию уровня начинающего специалиста и готов выйти на рынок труда. Они могут продемонстрировать правильное применение основных функций PowerPoint и могут выполнять задачи самостоятельно.
+subTitle: 'Продемонстрируйте, что у вас есть навыки, необходимые для получения максимальной отдачи от PowerPoint и заработайте сертификат Microsoft Office Specialist: PowerPoint Associate.'
 levels:
 - intermediate
 skills:
-- Управление несколькими презентациями
+- 'Примечание: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
+- Управление презентациями
 - Управление слайдами
-- Вставка и форматирование текста, фигур и изображений
-- Создание ссылок и управление ими
-- Вставка и форматирование графических элементов
+- Вставьте и отформатируйте текст, фигуры и изображения
+- Вставка таблиц, диаграмм, smartArt, 3D-моделей и мультимедиа
+- применять переходы и анимацию
 roles:
 - business-user
 type: mos
@@ -25,15 +31,16 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WKk
 exams:
 - uid: exam.mo-300
 resources:
-- title: Руководство по обучению и сертификации
+- title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Повтор экзамена
+- title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
-- title: Поддержка сертификационных
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

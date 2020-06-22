@@ -7,16 +7,16 @@ uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
-  <div><strong>Данная сертификация будет аннулирована 31 января 2021 года. Вы больше не сможете получить данный сертификат после этой даты. Любые сертификаты, полученные вами до даты отмены сертификации, будут по-прежнему отображаться в вашей выписке об успеваемости в <a href='https://www.microsoft.com/learning/dashboard.aspx'>панели Сертификации</a>. Вы также можете <a href='/learn/certifications/retired-certifications'>просмотреть все отмененные сертификации</a>.</strong><br/><br/></div>.
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  <div><strong>Этот будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. Вы больше не сможете получить данный сертификат после этой даты. Узнайте больше о <a href='/learn/certifications/retired-certifications'>предстоящих отменах экзаменов</a>.</strong><br/><br/></div>
   </div>
 
   Данная сертификация подтверждает, что у его обладателя есть все необходимые навыки для переноса работы компании в среду облачных вычислений, повышения производительности труда пользователей и расширения их возможностей, сокращения потерь данных и повышения уровня их защиты в масштабе организации. Эта сертификация может использоваться для удовлетворения одного из требований, чтобы стать [Администратором-экспертом Microsoft 365 Certified Enterprise](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 
   Чтобы стать MCSE Productivity Solutions Expert, выполните следующие требования&#58;
   - Получите одну обязательную сертификацию
-    - Пример обязательной сертификации 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
-    - Пример обязательной сертификации 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
+    - Пример обязательной сертификации1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
+    - Пример обязательной сертификации2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
   - И сдать один из экзаменов на выбор
     - [70-333&#58; Deploying Enterprise Voice with Skype for Business 2015](/learn/certifications/exams/70-333)
     - [70-334&#58; Core Solutions of Microsoft Skype for Business](/learn/certifications/exams/70-334)
@@ -26,7 +26,7 @@ subTitle: Данная сертификация подтверждает, что
 levels:
 - advanced
 skills:
-- не требуется
+- none
 roles:
 - administrator
 type: role-based
@@ -45,16 +45,16 @@ exams:
 - uid: exam.70-333
 resources:
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации
-  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.

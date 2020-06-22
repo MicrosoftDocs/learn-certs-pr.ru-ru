@@ -1,0 +1,72 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure AI Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Azure AI Fundamentals'
+  description: Эта сертификация будет доступна 8 июня 2020 года или около того. Сертификат “Основы Azure AI” подтверждает базовые знания о понятиях машинного обучения и искусственного интеллекта и связанных с этим службах Microsoft Azure.
+uid: certification.azure-ai-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  <div><strong><font color='red'>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</font></strong><br/><br/></div>
+
+  Кандидаты на получение сертификата Azure AI Fundamentals должны обладать базовыми знаниями о понятиях машинного обучения (ML) и искусственного интеллекта (AI) и связанных с этим службах Microsoft Azure.  
+
+  Эта сертификация дает возможность продемонстрировать знания об общих рабочих нагрузках ML и AI и о том, как их реализовать в Azure.  
+
+  Эта сертификация предназначена для кандидатов с техническим и нетехническим образованием. Опыт работы с данными и разработки программного обеспечения не требуется; однако, некоторые общие знания или опыт программирования будут полезны.  
+
+  Основы Azure AI можно использовать для подготовки к получению других сертификатов на основе ролей Azure, таким как Azure Data Scientist Associate или Azure AI Engineer Associate, но это не является обязательным условием для любого из них.  
+
+  <div><br/><strong>Примечание&#58; эта сертификация будет доступна 8 июня 2020 года или около того.</strong></div>
+subTitle: Эта сертификация будет доступна 8 июня 2020 года или около того. Сертификат “Основы Azure AI” подтверждает базовые знания о понятиях машинного обучения и искусственного интеллекта и связанных с этим службах Microsoft Azure.
+levels:
+- beginner
+skills:
+- Описание рабочих нагрузок и особенностей AI
+- Описание основных принципов машинного обучения на Azure
+- Описание особенностей рабочих нагрузок компьютерного зрения в Azure
+- Описание особенностей рабочих нагрузок диалогового AI в Azure
+roles:
+- ai-engineer
+- data-scientist
+- developer
+- solution-architect
+type: fundamentals
+products:
+- azure
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-form-recognizer
+- azure-language-understanding
+- azure-machine-learning
+- azure-qna-maker
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator-speech
+- azure-translator-text
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAEF
+exams:
+- uid: exam.ai-900
+resources:
+- title: Плакат с сертификатами Azure
+  description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

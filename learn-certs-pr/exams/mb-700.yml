@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 metadata:
-  title: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
-  description: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
+  title: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
+  description: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 uid: exam.mb-700
 displayName: MB-700
 summary: |-
@@ -13,8 +13,6 @@ summary: |-
   Архитектор решений несет ответственность за целостность и успешную реализацию разработки решения. Архитектор предоставляет важные рекомендации во время предпродажной подготовки и проектирования, а также консультирует на протяжении оставшейся части жизненного цикла проекта относительно решения проблем, возникающих в ходе реализации.
 
   Архитектор решений должен обладать обширными знаниями и опытом, охватывающими потребности бизнеса и возможности продукта. Архитектор решений должен обладать широкими функциональными и техническими знаниями в качестве разработчика или функционального консультанта в одной из следующих областей&#58; Finance, Manufacturing, или Supply Chain Management. Кроме того, они обладают обширными знаниями предметной области в одной или нескольких отраслях клиентов.
-
-  <div style='font-weight&#58; bold;'><br/>Баллы за бета-версии экзаменов не выставляются сразу, поскольку мы собираем информацию о качестве вопросов и экзамена. Узнайте больше о <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ценности и важности бета-версий экзаменов</a>.</div>
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: определение требований решения; разработка компонентов решения; и определение стратегии тестирования решений и управления.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
@@ -39,17 +37,20 @@ relatedCertifications:
 - related:
     uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 resources:
+- title: Обучение для получения сертификата
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vyT7
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов
-  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: ../help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.

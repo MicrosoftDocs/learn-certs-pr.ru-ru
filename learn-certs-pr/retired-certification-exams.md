@@ -1,6 +1,6 @@
 ---
-title: Отмененный экзамен Microsoft | Microsoft Docs
-description: Отмененный экзамен Microsoft
+title: Microsoft Retired Exam | Microsoft Docs
+description: Microsoft Retired Exam
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -66,6 +66,10 @@ ms.author: micsullivan
 
 | Будут отменены 31 августа 2020 года | |
 | --- | --- |
+| [MS-200](/learn/certifications/exams/ms-200): Planning and Configuring a Messaging Platform |  |
+| [MS-201](/learn/certifications/exams/ms-201): Implementing a Hybrid and Secure Messaging Platform |  |
+| [MS-300](/learn/certifications/exams/ms-300): Deploying Microsoft 365 Teamwork |  |
+| [MS-301](/learn/certifications/exams/ms-301): Deploying SharePoint Server Hybrid |  |
 | [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator |  |
 | [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
 
@@ -181,7 +185,7 @@ ms.author: micsullivan
 | 70-223 | Installing, Configuring, and Administering Microsoft Clustering Services by Using Microsoft Windows 2000 Advanced Server | 2008
 | 70-224 | Installing, Configuring, and Administering Microsoft Exchange 2000 Server | 2008
 | 70-225 | Designing and Deploying a Messaging Infrastructure with Microsoft Exchange 2000 Server | 2008
-| 70-226 | Designing Highly Available Web Solutions with Microsoft Windows 2000 Server Technologies| 2008
+| 70-226 | Designing Highly Available Web Solutions with Microsoft Windows 2000 Server Technologies | 2008
 | 70-227 | Installing, Configuring, and Administering Microsoft Internet Security and Acceleration (ISA) Server 2000, Enterprise Edition | 2008
 | 70-228 | Installing, Configuring, and Administering Microsoft SQL Server 2000 Enterprise Edition | 31 марта 2009 года
 | 70-229 | Designing and Implementing Databases with Microsoft SQL Server 2000 Enterprise Edition | 31 марта 2009 года
@@ -498,7 +502,7 @@ ms.author: micsullivan
 | MB6-206 | Axapta 3.0 Настройка и конфигурация | 12 января 2010 года
 | MB6-282 | Axapta 3.0 HRM | 12 января 2010 года
 | MB6-283 | Axapta 3.0 Questionnaire | 12 января 2010 года
-| MB6-284 | Axapta 3.0 Projects | 2010 год
+| MB6-284 | Axapta 3.0 Projects | 2010
 | MB6-285 | Axapta 3.0 Sales and Marketing | 31 декабря 2011 года
 | MB6-288 | Axapta 3.0 Product Builder | 12 января 2010 года
 | MB6-291 | Axapta 3.0 Shop Floor Control | 31 декабря 2011 года
@@ -538,7 +542,7 @@ ms.author: micsullivan
 | MB6-885 | Microsoft Dynamics AX 2012 Public Sector | 31 декабря 2016 года
 | MB6-886 | Microsoft Dynamics AX 2012 Process Manufacturing Production and Logistics | 31 декабря 2016 года
 | MB6-889 | Microsoft Dynamics AX 2012 Service Management | 31 декабря 2016 года
-| MB7-221 | Navision 4.0 C/SIDE Introduction  | 12 января 2010 года
+| MB7-221 | Navision 4.0 C/SIDE Introduction | 12 января 2010 года
 | MB7-222 | NAV 4.0 C/SIDE Solution Development | 12 января 2010 года
 | MB7-223 | Navision 4.0 Warehouse Management | 12 января 2010 года
 | MB7-224 | Navision 4.0 Manufacturing | 12 января 2010 года

@@ -1,21 +1,24 @@
-﻿### YamlMime:Certification
-title: Microsoft Certified Power Platform Fundamentals
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Fundamentals'
 metadata:
-  title: Microsoft Certified Power Platform Fundamentals
-  description: Докажите, что вы понимаете основные возможности Power Platform–от коммерческой ценности и основных возможностей до создания базового приложения Power Apps, подключения источников данных, автоматизации с помощью Microsoft Automate и создания панели мониторинга Power BI.
+  title: 'Microsoft Certified: Power Platform Fundamentals'
+  description: Докажите, что вы понимаете основные возможности Power Platform - от коммерческой ценности и возможностей основного продукта до создания простого приложения Power Apps для холста, подключения источников данных, автоматизации основных бизнес-процессов с помощью Power Automate, создания панели мониторинга Power BI и создания мощных чат-ботов с помощью Power Virtual Agents.
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  Докажите, что вы понимаете основные возможности Power Platform–от коммерческой ценности и основных возможностей до создания базового приложения Power Apps, подключения источников данных, автоматизации с помощью Microsoft Automate и создания панели мониторинга Power BI.
-subTitle: Докажите, что вы понимаете основные возможности Power Platform–от коммерческой ценности и основных возможностей до создания базового приложения Power Apps, подключения источников данных, автоматизации с помощью Microsoft Automate и создания панели мониторинга Power BI.
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+
+  Докажите, что вы понимаете основные возможности Power Platform - от коммерческой ценности и возможностей основного продукта до создания простого приложения Power Apps для холста, подключения источников данных, автоматизации основных бизнес-процессов с помощью Power Automate, создания панели мониторинга Power BI и создания мощных чат-ботов с помощью Power Virtual Agents.
+subTitle: Докажите, что вы понимаете основные возможности Power Platform - от коммерческой ценности и возможностей основного продукта до создания простого приложения Power Apps для холста, подключения источников данных, автоматизации основных бизнес-процессов с помощью Power Automate, создания панели мониторинга Power BI и создания мощных чат-ботов с помощью Power Virtual Agents.
 levels:
 - beginner
 skills:
-- Понимание ценности для бизнеса Power Platform
-- Понимание основных компонентов Power Platform
-- Демонстрация бизнес-ценности Power BI
-- Демонстрация бизнес-ценности Power Apps
-- Продемонстрируйте коммерческую ценность Power Automate.
+- Описание деловой ценности Power Platform
+- Определение основных компонентов Power Platform
+- Описание деловой ценности Power BI
+- Описание деловой ценности Power Apps
+- Описание деловой ценности Power Automate
+- Демонстрация деловой ценности мощных виртуальных агентов Power Virtual Agents
 roles:
 - business-user
 - functional-consultant
@@ -34,17 +37,18 @@ resources:
   description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Power Platform Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации
-  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

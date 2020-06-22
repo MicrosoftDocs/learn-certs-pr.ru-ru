@@ -1,4 +1,4 @@
-﻿### YamlMime:Certification
+### YamlMime:Certification
 title: 'Microsoft Certified: Azure Data Scientist Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Scientist Associate'
@@ -6,15 +6,16 @@ metadata:
 uid: certification.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+
   Azure Data Scientist применяет свои знания в области data science и машинного обучения для внедрения и выполнения рабочих нагрузок машинного обучения в Azure; в частности, с помощью службы машинного обучения Azure.
 subTitle: Azure Data Scientist применяет свои знания в области data science и машинного обучения для внедрения и выполнения рабочих нагрузок машинного обучения в Azure; в частности, с помощью службы машинного обучения Azure.
 levels:
 - intermediate
 skills:
-- 'NOTE: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
-- Настройка рабочего пространства в Azure Machine Learning 
-- Проводение экспериментов и моделей обучения 
-- Оптимизация и управление моделями 
+- Настройка рабочего пространства в Azure Machine Learning
+- Проводение экспериментов и моделей обучения
+- Оптимизация и управление моделями
 - Развертывание и использование модели
 roles:
 - data-scientist
@@ -30,18 +31,22 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEH
 exams:
 - uid: exam.dp-100
 resources:
+- title: Плакат с сертификатами Azure
+  description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации
-  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

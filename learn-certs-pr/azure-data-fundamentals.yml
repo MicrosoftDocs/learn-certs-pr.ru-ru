@@ -1,0 +1,56 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Data Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Azure Data Fundamentals'
+  description: Эта сертификация будет доступна 8 июня 2020 года или около того. Сертификация “Основы данных Azure” подтверждает базовые знания основных понятий данных и того, как они реализуются с использованием служб данных Microsoft Azure.
+uid: certification.azure-data-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  <div><strong><font color='red'>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</font></strong><br/><br/></div>
+
+  Кандидаты на сертификацию по основам данных Azure должны обладать основными знаниями о базовых концепциях данных и о том, как они реализуются с использованием служб данных Microsoft Azure.  
+
+  Данная сертификация предназначена для кандидатов, начинающих работать с данными в облаке.  
+
+  Кандидаты должны быть знакомы с понятиями реляционных и нереляционных данных, а также с различными типами рабочих нагрузок данных, такими как транзакционные или аналитические.  
+
+  Сертификацию “Основы данных Azure” можно использовать для подготовки к получению других сертификатов Azure на основе ролей, таким как Azure Database Administrator Associate или Azure Data Engineer Associate, но это не является обязательным условием для любого из них.  
+
+  <div><br/><strong>Примечание&#58; эта сертификация будет доступна 8 июня 2020 года или около того.</strong></div>
+subTitle: Эта сертификация будет доступна 8 июня 2020 года или около того. Сертификация “Основы данных Azure” подтверждает базовые знания основных понятий данных и того, как они реализуются с использованием служб данных Microsoft Azure.
+levels:
+- beginner
+skills:
+- Описание основных понятий данных
+- Описание того, как работать с реляционными данными в Azure
+- Описание того, как работать с нереляционными данными в Azure
+- Описание рабочую нагрузку аналитики в Azure
+roles:
+- data-engineer
+- database-administrator
+type: fundamentals
+products:
+- azure
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wqeZ
+exams:
+- uid: exam.dp-900
+resources:
+- title: Плакат с сертификатами Azure
+  description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

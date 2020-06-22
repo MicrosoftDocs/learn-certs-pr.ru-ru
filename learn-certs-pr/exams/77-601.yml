@@ -1,0 +1,48 @@
+### YamlMime:Examination
+title: 'MOS: Using Microsoft Office Word 2007'
+metadata:
+  title: 'Exam 77-601: MOS: Using Microsoft Office Word 2007'
+  description: 'Exam 77-601: MOS: Using Microsoft Office Word 2007'
+uid: exam.77-601
+displayName: 77-601
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Кандидаты на этот экзамен должны обладать практическим опытом от шести месяцев до одного года по созданию готовых бизнес-решений с помощью Microsoft Office Word 2007 и, возможно, имеют опыт работы с предыдущими версиями Office Word. Эти кандидаты особенно сильны в создании, настройке и организации документов с использованием форматирования и визуального содержимого, соответствующих представляемой информации. Они также сильны в рассмотрении содержимого, обмене содержимым и его защите.
+subTitle: Кандидаты на этот экзамен должны обладать практическим опытом от шести месяцев до одного года по созданию готовых бизнес-решений с помощью Microsoft Office Word 2007 и, возможно, имеют опыт работы с предыдущими версиями Office Word. Эти кандидаты особенно сильны в создании, настройке и организации документов с использованием форматирования и визуального содержимого, соответствующих представляемой информации. Они также сильны в рассмотрении содержимого, обмене содержимым и его защите.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t57w
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=77-601&examname=MOS:%20Using%20Microsoft%20Office%20Word%202007&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-601
+locales:
+- en
+- ru
+levels:
+- beginner
+skills:
+- Создание и настройка документов (25–30%)
+- Форматирование содержимого (25–30%)
+- Работа с визуальным содержимым (10–15%)
+- Организация содержимого (15–20%)
+- Просмотр документов (10–15%)
+- Обмен содержимым и его и защита (5–10%)
+roles:
+- business-user
+products:
+- office-word
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

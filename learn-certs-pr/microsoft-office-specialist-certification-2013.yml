@@ -6,10 +6,10 @@ metadata:
 uid: certification.microsoft-office-specialist-certification-2013
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
-  
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+
   Сертификат, свидетельствующий о том, что у вас есть навыки, необходимые для того, чтобы максимально эффективно использовать Office, после получения сертификата Специалиста Microsoft Office (MOS) в конкретной программе Office. Office 2013 объединяет облачные и веб-технологии, расширяя способы создания и потребления информации и предлагая новую модель облачных приложений для создания защищенных и гибких приложений на основе знакомого интерфейса Office.
-  
+
   Чтобы получить сертификат Microsoft Office Specialist on Microsoft Office 2013, сдайте любой или все 7 экзаменов, чтобы получить сертификат по этой конкретной программе&#58;
   - [Exam 77-418&#58; Microsoft Office Word 2013](/learn/certifications/exams/77-418)
   - [Exam 77-420&#58; Microsoft Office Excel 2013](/learn/certifications/exams/77-420)
@@ -22,7 +22,7 @@ subTitle: Сертификат, свидетельствующий о том, ч
 levels:
 - beginner
 skills:
-- не требуется
+- none
 roles:
 - business-user
 type: mos
@@ -39,7 +39,7 @@ resources:
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
+- title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации

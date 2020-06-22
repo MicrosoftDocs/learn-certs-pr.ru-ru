@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Configuring Windows Devices (pilot)
+metadata:
+  title: 'Exam 70-797: Configuring Windows Devices (pilot)'
+  description: 'Exam 70-797: Configuring Windows Devices (pilot)'
+uid: exam.70-797
+displayName: 70-797
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  На этом экзамене проверяются базовые знания и навыки кандидата по построению надежных идентификационных данных, защите содержимого (защите от потери данных), политике управления мобильным устройством, виртуализации с Hyper-V, управлению приложениями при помощи корпоративного портала и магазина Windows. Будут проверяться знания кандидатов по безопасности в Windows 10 и интегрированным функциям Azure.
+
+  В дополнение к своему профессиональному опыту для прохождения этого экзамена кандидаты должны обладать следующими знаниями&#58;
+
+  - Опыт администрирования и поддержки настольных ПК под управлением Windows и устранения проблем с ними
+  - Базовое представление о сетевых технологиях Windows и опыт работы с ними
+  - Начальный уровень знаний по Active Directory и Microsoft Intune
+
+  Для приобретения необходимых для прохождения этого экзамена знаний и навыков кандидатам будет полезен опыт работы в качестве инженера поддержки устройств с Windows или системного администратора Windows.
+subTitle: На этом экзамене проверяются базовые знания и навыки кандидата по построению надежных идентификационных данных, защите содержимого (защите от потери данных), политике управления мобильным устройством, виртуализации с Hyper-V, управлению приложениями при помощи корпоративного портала и магазина Windows. Будут проверяться знания кандидатов по безопасности в Windows 10 и интегрированным функциям Azure.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjT
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=70-797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
+locales:
+- en
+levels:
+- beginner
+skills:
+- Управление идентификационными данными (13%)
+- Планирование развертывания рабочих станций и устройств (13%)
+- Планирование и реализация решения для управления устройствами Microsoft Intune (11%)
+- Настройка сети (11%)
+- Настройка системы хранения данных (10%)
+- Управляйте доступом к данным и защитой (11%)
+- Управление удаленным доступом (10%)
+- Управление приложениями (11%)
+- Управление обновлениями и восстановлением (10%)
+roles:
+- administrator
+products:
+- windows
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

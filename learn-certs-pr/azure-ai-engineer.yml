@@ -1,4 +1,4 @@
-﻿### YamlMime:Certification
+### YamlMime:Certification
 title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure AI Engineer Associate'
@@ -6,12 +6,14 @@ metadata:
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+
   Инженеры Azure AI используют Cognitive Services (когнитивные службы), Machine Learning (машинное обучение) и Knowledge Mining (майнинг знаний) для разработки и внедрения решений Microsoft AI, включающих обработку естественного языка, речь, компьютерное зрение, ботов и агентов.
 subTitle: Инженеры Azure AI используют Cognitive Services (когнитивные службы), Machine Learning (машинное обучение) и Knowledge Mining (майнинг знаний) для разработки и внедрения решений Microsoft AI, включающих обработку естественного языка, речь, компьютерное зрение, ботов и агентов.
 levels:
 - intermediate
 skills:
-- 'NOTE: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
+- 'Примечание: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
 - Анализ требований к решению
 - Проектирование AI-решений
 - Внедрение и мониторинг AI-решений
@@ -36,18 +38,25 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEH
 exams:
 - uid: exam.ai-100
 resources:
-- title: Руководство по обучению и сертификации
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+- title: Плакат с сертификатами Azure
+  description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Путешествие к сертификации
+  description: Узнайте о том, как пройти сертификацию на младшего инженера-разработчика Azure, а также о ресурсах, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
-- title: Поддержка сертификационных
-  description: обратитесь за помощью на форумы поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

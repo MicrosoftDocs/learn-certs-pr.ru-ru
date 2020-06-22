@@ -1,16 +1,18 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
+title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
 metadata:
-  title: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
-  description: Архитекторы решений для приложений, основанных на моделях Microsoft Power Apps в Dynamics 365, ведут успешные реализации и фокусируются на том, чтобы решения удовлетворяли более широкие деловые и технические потребности организаций.
+  title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
+  description: Архитекторы решений для Microsoft Dynamics 365 + Power Platform ведут успешные внедрения и фокусируются на том, как решения удовлетворяют более широкие деловые и технические потребности организаций.
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: "<div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>\r\n\r\nАрхитекторы решений для приложений, основанных на моделях Microsoft Power Apps в Dynamics 365, ведут успешные реализации и фокусируются на том, чтобы решения удовлетворяли более широкие деловые и технические потребности организаций.  "
-subTitle: Архитекторы решений для приложений, основанных на моделях Microsoft Power Apps в Dynamics 365, ведут успешные реализации и фокусируются на том, чтобы решения удовлетворяли более широкие деловые и технические потребности организаций.
+summary: |-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+
+  Архитекторы решений для Microsoft Dynamics 365 + Power Platform ведут успешные внедрения и фокусируются на том, как решения удовлетворяют более широкие деловые и технические потребности организаций.
+subTitle: Архитекторы решений для Microsoft Dynamics 365 + Power Platform ведут успешные внедрения и фокусируются на том, как решения удовлетворяют более широкие деловые и технические потребности организаций.
 levels:
 - advanced
 skills:
-- 'Примечание: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
 - Выполнение анализа решений и анализа требований
 - Разработка решения
 - Внедрение решения
@@ -40,19 +42,19 @@ prerequisites:
   isOptional: false
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации
-  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.

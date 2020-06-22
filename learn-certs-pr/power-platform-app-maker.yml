@@ -1,0 +1,81 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform App Maker Associate'
+metadata:
+  title: 'Microsoft Certified: Power Platform App Maker Associate'
+  description: Эта сертификация будет доступна 17 июля 2020 года или около того. Производители приложений создают решения для упрощения, автоматизации и преобразования задач и процессов для себя и своей команды, и в этом они обладают глубокими знаниями в области решений. Кандидаты разбираются в ключевых задачах технического бизнес-аналитика, таких как моделирование данных, базовая разработка UX, анализ требований и процессов.
+uid: certification.power-platform-app-maker
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></font></div>
+
+  Производители приложений создают решения для упрощения, автоматизации и преобразования задач и процессов для себя и своей команды, и в этом они обладают глубокими знаниями в области решений. Кандидаты разбираются в ключевых задачах технического бизнес-аналитика, таких как моделирование данных, базовая разработка UX, анализ требований и процессов.
+
+  <div><strong><br/>Примечание&#58; эта сертификация будет доступна примерно в июле 2020 года.</strong></div>
+subTitle: Эта сертификация будет доступна примерно в июле 2020 года. Производители приложений создают решения для упрощения, автоматизации и преобразования задач и процессов для себя и своей команды, и в этом они обладают глубокими знаниями в области решений. Кандидаты разбираются в ключевых задачах технического бизнес-аналитика, таких как моделирование данных, базовая разработка UX, анализ требований и процессов.
+levels:
+- intermediate
+skills:
+- Проектирование решений
+- Создание решений
+- Анализ данных
+- Внедрение решений и управление ими
+roles:
+- business-analyst
+- business-owner
+- business-user
+- data-analyst
+- developer
+- devops-engineer
+- maker
+- technology-manager
+type: role-based
+products:
+- dynamics
+- office
+- office-access
+- office-excel
+- office-exchange-server
+- office-365
+- office-365-atp
+- office-add-ins
+- office-onedrive
+- office-onenote
+- office-outlook
+- office-planner
+- office-powerpoint
+- office-project
+- office-project-server
+- office-publisher
+- office-sp
+- office-sp-designer
+- office-teams
+- office-visio
+- office-word
+- power-platform
+- ai-builder
+- common-data-service
+- forms-pro
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAsW
+exams:
+- uid: exam.pl-100
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

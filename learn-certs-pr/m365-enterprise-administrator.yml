@@ -2,23 +2,25 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: Microsoft 365 Enterprise Administrator участвует в оценке, планировании, миграции, развертывании и управлении службами Microsoft 365.
+  description: 'Microsoft 365 Enterprise Administrator участвует в оценке, планировании, миграции, развертывании и управлении службами Microsoft 365.'
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+
   Администраторы предприятий Microsoft 365 Enterprise оценивают, планируют, переносят, развертывают и управляют службами Microsoft 365.
-  
-  <div style='color&#58; red;'><br/>Сертификация для MCSE Productivity solutions Expert будет отменена 30 июня 2020 года. Следовательно, сертификация для MCSE Productivity solutions Expert не будет рассматриваться в качестве обязательного условия для сертификации Microsoft 365 Certified&#58; Enterprise Administrator Expert, после 30 июня 2021 года. (1 год после отмены сертификации MCSE).</div>
+
+  <div><br/><strong>Сертификация MCSE Productivity Solutions Expert будет прекращена 31 января 2021 года. Следовательно, сертификация MCSE Productivity Solutions Expert не будет считаться обязательным параметром для сертификации Microsoft 365 Certified&#58; Enterprise Administrator Expert после 31 января 2022 г. (через 1 год после прекращения MCSE).</strong></div>
 subTitle: Администраторы предприятий Microsoft 365 Enterprise оценивают, планируют, переносят, развертывают и управляют службами Microsoft 365.
 levels:
 - advanced
 skills:
-- 'NOTE: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
-- Разработка и внедрение сервисов Microsoft 365
+- 'Примечание: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
+- Разработка и внедрение служб Microsoft 365
 - Управление удостоверениями и ролями пользователя
 - Управление доступом и аутентификацией
 - Планирование рабочих нагрузок и приложений Office 365
-- Внедрение современных сервисов устройств
+- Внедрение современных служб устройств
 - Внедрение Microsoft 365 для обеспечения безопасности и управления угрозами
 - Управление Microsoft 365 для управления и соответствия
 roles:
@@ -27,12 +29,8 @@ type: role-based
 products:
 - m365
 courses:
-- uid: course.ms-100t01
-- uid: course.ms-100t02
-- uid: course.ms-100t03
-- uid: course.ms-101t01
-- uid: course.ms-101t02
-- uid: course.ms-101t03
+- uid: course.ms-100t00
+- uid: course.ms-101t00
 prerequisites:
 - uid: certification.modern-desktop
   isOptional: false
@@ -51,18 +49,19 @@ exams:
 - uid: exam.ms-100
 - uid: exam.ms-101
 resources:
-- title: Руководство по обучению и сертификации
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
-- title: Поддержка сертификационных
-  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

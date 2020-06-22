@@ -1,0 +1,45 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Access Expert (Access and Access 2019)'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Access Expert (Access and Access 2019)'
+  description: 'Продемонстрируйте, что у вас есть навыки, необходимые для получения максимальной отдачи от Access и заработайте сертификат Microsoft Office Specialist: Access Expert.'
+uid: certification.mos-access-expert-2019
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></font></div>
+
+  Продемонстрируйте, что у вас есть навыки, необходимые для получения максимальной отдачи от Access и заработайте сертификат Microsoft Office Specialist&#58; Access Expert. Эта сертификация демонстрирует компетентность в принципах проектирования баз данных.
+
+  Человек, получивший эту сертификацию, имеет около 150 часов обучения и практического опыта работы с продуктом, доказал свою компетентность на уровне отраслевого эксперта и готов выйти на рынок труда. Кандидаты должны продемонстрировать правильное применение основных функций Access и могут самостоятельно выполнять задания.
+subTitle: 'Продемонстрируйте, что у вас есть навыки, необходимые для получения максимальной отдачи от Access и заработайте сертификат Microsoft Office Specialist: Access Expert.'
+levels:
+- advanced
+skills:
+- Управление базами данных
+- Создание и изменение таблиц
+- Создание и изменение запросов
+- Изменение форм в представлении макета
+- Изменить отчетов в представлении макета
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-access
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeB
+exams:
+- uid: exam.mo-500
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

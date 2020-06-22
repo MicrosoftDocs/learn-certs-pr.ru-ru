@@ -2,10 +2,13 @@
 title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
-  description: Microsoft Dynamics 365 для функциональных консультантов по обслуживанию клиентов создают решения CX, которые являются быстрыми, гибкими и используют AI, чтобы обеспечить действенное понимание, предвосхищающее потребности клиентов.
+  description: 'Microsoft Dynamics 365 для функциональных консультантов по обслуживанию клиентов создают решения CX, которые являются быстрыми, гибкими и используют AI, чтобы обеспечить действенное понимание, предвосхищающее потребности клиентов.'
 uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Microsoft Dynamics 365 для функциональных консультантов по обслуживанию клиентов создают решения CX, которые являются быстрыми, гибкими и используют AI, чтобы обеспечить действенное понимание, предвосхищающее потребности клиентов.
+summary: |-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+
+  Microsoft Dynamics 365 для функциональных консультантов по обслуживанию клиентов создают решения CX, которые являются быстрыми, гибкими и используют AI, чтобы обеспечить действенное понимание, предвосхищающее потребности клиентов.
 subTitle: Microsoft Dynamics 365 для функциональных консультантов по обслуживанию клиентов создают решения CX, которые являются быстрыми, гибкими и используют AI, чтобы обеспечить действенное понимание, предвосхищающее потребности клиентов.
 levels:
 - intermediate
@@ -19,7 +22,7 @@ skills:
 - Выполнение настройки
 - Управление случаями и базой знаний
 - Управление очередями, правами и SLA
-- Настройка голоса клиента
+- Настройка Forms Pro
 roles:
 - functional-consultant
 type: role-based
@@ -50,20 +53,21 @@ exams:
 - uid: exam.mb-230
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Повтор экзамена
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

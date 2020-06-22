@@ -1,6 +1,6 @@
 ---
-title: 'Станьте сертифицированным инструктором Microsoft | Microsoft Docs'
-description: 'Станьте сертифицированным инструктором Microsoft' 
+title: 'Become a Microsoft Certified Trainer | Microsoft Docs'
+description: 'Become a Microsoft Certified Trainer' 
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -19,11 +19,11 @@ ms.author: micsullivan
 
 Участие в программе Microsoft Certified Trainer необходимо подтверждать ежегодно. Вы должны соответствовать требованиям программы, заполнить онлайн-заявку и оплатить ежегодный взнос за продление вашего сертификата обучения на следующий год.
 
-[Команда поддержки MCT](https://aka.ms/mctforum) может ответить на вопросы о процессе сертификации MCT и требованиях этой программы.
+Обратитесь в [MCT Support](https://aka.ms/mctforum), если у вас есть вопросы о требованиях к программе MCT, процессе регистрации или обновления MCT или любые другие вопросы, касающиеся программы MCT.
 
 ## Преимущества программы MCT
 
-Специалистам квалификации Microsoft Certified Trainer предоставляется доступ к персонализированной [панели]https://www.microsoft.com/learning/dashboard.aspx), где можно найти разнообразные полезные ресурсы для MCT, загрузить сертификационное свидетельство MCT, а также увидеть списки, доступные для вас!
+Специалистам квалификации Microsoft Certified Trainer предоставляется доступ к персонализированной [панели](https://www.microsoft.com/learning/dashboard.aspx), где можно найти разнообразные полезные ресурсы для MCT, загрузить сертификационное свидетельство MCT, а также увидеть списки, доступные для вас!
 
 Кроме того, у вас будет доступ к [Центральному MCT](https://www.microsoft.com/en-us/learning/mct-central.aspx), который помогает MCT оставаться в курсе последних новостей, найти работу, связаться с другими MCT по всему миру или обратиться к региональному руководителю MCT.
 
@@ -33,7 +33,7 @@ ms.author: micsullivan
 
 Программа MCT предназначена для педагогов по всему миру, которые активно проводят обучение по технологиям Microsoft. Если вы обладаете соответствующей сертификацией или квалификацией и увлечены проведением обучения по технологиям Microsoft рекомендуем рассмотреть возможность участия.
 
-Подробные сведения о требованиях программы MCT см. в руководстве по программе MCT и соглашении об участии в программе MCT в разделе [Процесс подачи заявок](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4)  на этой странице.
+Подробные сведения о требованиях программы MCT см. в руководстве по программе MCT и соглашении об участии в программе MCT в разделе [Процесс подачи заявок](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) на этой странице.
 
 
 ### Требования к новым участникам программы MCT
@@ -44,6 +44,7 @@ ms.author: micsullivan
   - Сертификация навыков в области обучения
     - CompTIA CTT+
     - Essential Educate Trainer (внутренняя сертификация Microsoft)
+	- Fourth Dimension Technologies, Inc.
     - Friesen Kaye and Associates
     - Сертификат Global Knowledge Instructional Skills
     - IAMCT Approved Technical Trainer (IAMCT ATT)
@@ -81,7 +82,7 @@ ms.author: micsullivan
 - [Microsoft Certified: Azure Solutions Architect Expert](https://www.microsoft.com/learning/azure-solutions-architect.aspx)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
-- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx)
+- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx)(Будут отменены 31 августа 2020 года)
 - [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/learning/m365-security-administrator.aspx)
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
@@ -99,12 +100,12 @@ ms.author: micsullivan
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
 - [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate)
-- [Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
+- [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
 - [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): Отчетность BI (Выбывает 31 января 2021 г.), Microsoft Dynamics 365 для операций (Выбывает 31 января 2021 г.), разработка SQL 2016 BI (Выбывает 31 января 2021 г.), Управление базами данных SQL 2016 (Выбывает 31 января 2021 г.), Разработка баз данных SQL 2016 (Выбывает 31 января 2021 г.), SQL Server 2012/2014 (Выбывает 31 января 2021 г.), Универсальная платформа Windows Platform (Выбывает 31 января 2021 г.), Сетевые приложения (Выбывает 31 января 2021 г.), Windows Server 2012 (Выбывает 31 января 2021 г.), или Windows Server 2016 (Выбывает 31 января 2021 г.)
 - [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Бизнес-приложения (Выбывает 31 января 2021 г.), Управление данными и аналитика (Выбывает 31 января 2021 г.), Производительность (Выбывает 31 января 2021 г.) или Основная инфраструктура (Выбывает 31 января 2021 г.)
 - [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): Конструктор приложений (Выбывает 31 января 2021 г.)
 - Dynamics CRM Dynamics Technical (отменяется 31 декабря 2019 года) - [Понимание требований, связанных с каждой квалификацией и сертификацией Microsoft Dynamics](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm).
-- [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Мастер 2016, Мастер 2013, Эксперт Excel 2016, Эксперт Excel 2013, Эксперт Word 2016, Эксперт Word 2013, [Партнер Word (Word и Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Партнер Excel (Excel и Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [Партнер PowerPoint (PowerPoint и PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Специалист Microsoft Office: Партнер (Office 365 и Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Эксперт Word (Word и Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019) или [Специалист Microsoft Office: Expert (Office 365 и Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
+- [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Мастер 2016, Мастер 2013, Эксперт Excel 2016, Эксперт Excel 2013, Эксперт Word 2016, Эксперт Word 2013, [Партнер Word (Word и Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Партнер Excel (Excel и Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [Партнер PowerPoint (PowerPoint и PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Outlook Associate (Outlook and Outlook 2019)](/learn/certifications/mos-outlook-2019), [Специалист Microsoft Office: Партнер (Office 365 и Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Эксперт Word (Word и Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel и Excel 2019)](/learn/certifications/mos-excel-expert-2019), [Access Expert (Access и Access 2019)](/learn/certifications/mos-access-expert-2019) или [Специалист Microsoft Office: Expert (Office 365 and Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
  
 **Примечание** Сертификаты и квалификации Microsoft, подходящие для программы MCT, могут изменяться. Все новые ролевые сертификаты будут подходить для программы MCT, как только они будут выпущены. Сертификаты, срок действия которых истек, будут подходить для программы MCT в течение 6 месяцев после даты истечения срока. [Узнайте больше о сертификации выбывания](https://www.microsoft.com/learning/retired-certifications.aspx).
 
@@ -138,14 +139,6 @@ ms.author: micsullivan
 - **Обновите информацию в профиле.** Предоставленная контактная информация используется для связи в рамках программы MCT.
 - **Укажите служебное положение.** Если вы работаете в Учебном партнере или в Microsoft Imagine Academy, вам нужен Учебный партнер вашего работодателя или идентификационный номер Microsoft Imagine Academy.
 - **Выберите свой способ оплаты.** Размер платы за участие в программе зависит от страны/региона и служебного положения участника. Чтобы узнать размер членских взносов для программ MCT и MCT Alumni в вашем регионе, воспользуйтесь средством поиска в нижней части страницы.
-
-**Примечание** Сотрудники организаций, являющихся партнерами по программе Microsoft Learning, могут участвовать в программе MCT за счет работодателя, выполнив указанные ниже шаги.
-
-1. Купите ваучер MCT в [Интернет-магазин учебных курсов](https://shop.courseware-marketplace.com/).
-2. Заполните заявку с помощью [MCT enrollment tool](https://mcp.microsoft.com/Authenticate/MCT).
-3. Укажите код ваучера МСТ при получении запроса на ввод для оплаты взноса за участие в программе.
-
-После заполнения заявки и оплаты отслеживайте получение приглашения MCT, передаваемого по электронной почте. Затем вы можете получить доступ к содержанию MCT на вашей [Панели сертификации](https://www.microsoft.com/learning/dashboard.aspx).
 
 ## Программа MCT Alumni
 

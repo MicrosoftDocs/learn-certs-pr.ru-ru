@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: Microsoft Azure DevOps Solutions
+title: Designing and Implementing Microsoft DevOps Solutions
 metadata:
-  title: 'Exam AZ-400: Microsoft Azure DevOps Solutions'
-  description: 'Exam AZ-400: Microsoft Azure DevOps Solutions'
+  title: 'Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
+  description: 'Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
@@ -13,11 +13,11 @@ summary: |-
   Кандидаты на этот экзамен - это профессионалы DevOps, которые объединяют людей, процессы и технологии для непрерывного предоставления ценных продуктов и услуг, которые отвечают потребностям конечных пользователей и бизнес-целям. Профессионалы DevOps оптимизируют поставку, оптимизируя методы работы, улучшая взаимодействие и совместную работу, а также создавая автоматизацию. Они разрабатывают и венедряют стратегии для кода приложений и инфраструктуры, которые обеспечивают непрерывную интеграцию, тестирование, поставку, отслеживание и обратную связь.
 
   Кандидаты должны обладать навыками Agile-практик. Они должны быть знакомы с администрированием и разработкой в Azure и обладать экспертизой хотя бы в одной из этих областей. Профессионалы в Azure DevOps должны быть способны спроектировать и реализовать DevOps-практики для контроля версий, соответствия стандартами, infrastructure-as-code, управление настройкой, сборки, выпуска и тестирования, используя технологии Azure.
-subTitle: 'Этот экзамен позволяет оценить вашу способность разработать стратегию DevOps и реализовать следующее: процессы разработки DevOps; управление зависимостями; инфраструктура приложений; а также непрерывную интеграцию, доставку и обратную связь.'
+subTitle: 'Этот экзамен позволяет оценить вашу способность разработать стратегию DevOps и реализовать следующее: процессы разработки DevOps; управление зависимостями; инфраструктура приложений; а также непрерывную интеграцию, доставку и обратную связь. '
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-400&examname=Exam%20AZ-400:%20Microsoft%20Azure%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-400&examname=Exam%20AZ-400:%20Designing%20and%20Implementing%20Microsoft%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
 - ja
@@ -28,12 +28,12 @@ levels:
 skills:
 - Содержание этого экзамена будет обновлено 15 июня 2020 года. Пожалуйста, скачайте список навыков, оцениваемых на экзамене, ниже, чтобы увидеть, что меняется.
 - Проектирование стратегии DevOps (20-25%)
-- Реализация процессов разработки DevOps (20-25%)
+- Внедрение процессов разработки DevOps (20-25%)
 - Внедрение непрерывной интеграции (10-15%)
 - Внедрение непрерывной поставки (10-15%)
 - Внедрение управления зависимостями (5-10%)
 - Внедрение инфраструктуры приложений (15-20%)
-- Внедрение непрерывной обратной (10-15%)
+- Внедрение непрерывной обратной связи (10-15%)
 roles:
 - devops-engineer
 products:
@@ -49,31 +49,25 @@ paths:
 - uid: learn.azdo.automate-deployments-azure-devops
 - uid: learn.azdo.capture-feedback-monitoring
 courses:
-- uid: course.az-400t01
-- uid: course.az-400t02
-- uid: course.az-400t03
-- uid: course.az-400t04
-- uid: course.az-400t05
-- uid: course.az-400t06
-- uid: course.az-400t07
+- uid: course.az-400t00
 relatedCertifications:
 - related:
-    uid: certification.azure-devops
+    uid: certification.devops-engineer
 resources:
-- title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Azure DevOps Engineer Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
+- title: Путешествие к сертификации
+  description: Изучите шаги, чтобы получить сертификат эксперта DevOps, а также ресурсы, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов
-  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: ../help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.

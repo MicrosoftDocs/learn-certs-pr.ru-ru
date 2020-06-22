@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Microsoft 365 Messaging
+metadata:
+  title: 'Exam MS-203: Microsoft 365 Messaging'
+  description: 'Exam MS-203: Microsoft 365 Messaging'
+uid: exam.ms-203
+displayName: MS-203
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Кандидатами на этот экзамен являются Администраторы обмена сообщениями, которые развертывают, настраивают, управляют и отслеживают получателей, разрешения, защиту почты, поток почты и общие папки в гибридных и облачных корпоративных средах, а также устраняют связанные со всем этим неполадки.
+
+  Администраторы обмена сообщениями отвечают за управление гигиеной, инфраструктурой обмена сообщениями, гибридной конфигурацией, миграцией, транспортировкой, почтовыми ящиками и доступом клиентов.
+
+  Администраторы обмена сообщениями сотрудничают с администраторами безопасности и администраторами Microsoft 365 Enterprise для реализации безопасной гибридной или облачной топологии, отвечающей деловым потребностям предприятия.
+
+  Администратор обмена сообщениями должен иметь практические знания о типах аутентификации, лицензировании и интеграции с приложениями Microsoft 365.
+subTitle: 'Этот экзамен измеряет вашу способность выполнять следующие технические задачи: управлять организационными настройками и ресурсами; планировать почтовую архитектуру и управлять ею, планировать и реализовывать гибридную конфигурацию и миграцию, а также защитить среду обмена сообщениями.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4xqnc
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-203&examname=Exam%20MS-203:%20Microsoft%20365%20Messaging&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-203
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Управление организационными настройками и ресурсами (30-35%)
+- Планирование и управление почтовой архитектурой (20-25%)
+- Планирование и внедрение гибридной конфигурации и миграции (20-25%)
+- Обеспечение безопасности среды обмена сообщениями (20-25%)
+roles:
+- administrator
+products:
+- m365
+relatedCertifications:
+- related:
+    uid: certification.m365-messaging-administrator
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Поддержка сертификационных экзаменов
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
+  href: ../certification-exam-policies.md
+

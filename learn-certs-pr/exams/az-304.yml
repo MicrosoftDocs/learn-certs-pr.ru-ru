@@ -18,7 +18,6 @@ summary: |-
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: проектирование мониторинга; проектирование удостоверений и безопасности; хранение проектных данных; проектирование непрерывности бизнеса; и проектирование инфраструктуры.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWz
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-304&examname=Exam%20AZ-304:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-304
 locales:
 - en
 levels:
@@ -37,20 +36,17 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Azure Solutions Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов
-  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: ../help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.

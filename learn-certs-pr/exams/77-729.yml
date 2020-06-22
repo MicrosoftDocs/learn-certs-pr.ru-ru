@@ -1,27 +1,28 @@
 ### YamlMime:Examination
 title: 'PowerPoint 2016: Core Presentation Design and Delivery Skills'
 metadata:
-  title: 'Экзамен 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
-  description: 'Экзамен 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
+  title: 'Exam 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
+  description: 'Exam 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
 uid: exam.77-729
 displayName: 77-729
-summary: >
+summary: |+
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
   Успешные кандидаты будут иметь фундаментальное понимание среды PowerPoint и продемонстрировать правильное применение PowerPoint 2016. Кандидаты должны уметь создавать, редактировать и улучшать презентации и слайд-шоу. Примеры презентаций включают презентации профессионального уровня, обучение сотрудников, учебные материалы и слайд-шоу в киосках.
 
-
   В целях более тщательной проверки знаний кандидата, его способностей и навыков владения программами MOS 2016 сертификационные экзамены Microsoft Office Specialist (MOS) 2016 проводятся в новом формате&#58;
-
   - в отличие от предыдущих версий инструкции к экзамену MOS 2016, как правило, не содержат названия команд. Например, названия функций не указываются и заменяются дескрипторами. Это означает, что для успешного выполнения задач по каждому проекту кандидаты должны знать назначение и основные сценарии использования функций программ.
-
   - Экзамен MOS 2016 включает в себя несколько проектов.
 subTitle: Успешные кандидаты будут иметь фундаментальное понимание среды PowerPoint и продемонстрировать правильное применение PowerPoint 2016. Кандидаты должны уметь создавать, редактировать и улучшать презентации и слайд-шоу. Примеры презентаций включают презентации профессионального уровня, обучение сотрудников, учебные материалы и слайд-шоу в киосках.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dr
 providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
+- ar-sa
+- bg-bg
 - zh-cn
 - zh-tw
 - de
@@ -41,10 +42,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Создание и управление презентациями (30-35%)
-- Вставка и форматирование текста, фигур и изображений (20-25%)
+- 'Примечание: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
+- Создание презентаций и управление ими (30-35%)
+- Вставьте и отформатируйте текст, фигуры и изображения (20-25%)
 - Вставка таблиц, диаграмм, SmartArt и мультимедийных объектов (20-25%)
-- Применение переходов и анимации (10-15%)
+- применять переходы и анимацию (10-15%)
 - Управление несколькими презентациями (5-10%)
 roles:
 - developer
@@ -54,7 +56,7 @@ relatedCertifications:
 - related:
     uid: certification.mos-powerpoint-2016
 resources:
-- title: Руководство по обучению и сертификации
+- title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Панель управления сертификацией
@@ -62,7 +64,8 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Запрос специальных условий
   description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md
+

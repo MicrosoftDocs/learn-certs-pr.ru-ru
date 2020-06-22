@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Word 2013
+metadata:
+  title: 'Exam 77-418: Word 2013'
+  description: 'Exam 77-418: Word 2013'
+uid: exam.77-418
+displayName: 77-418
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  От кандидатов базового уровня, намеревающихся сдать экзамен по Microsoft Word 2013, требуются знания основ работы в среде Word и способность самостоятельно выполнять задачи. Кандидаты должны знать правила применения основных функций Word 2013 и продемонстрировать эти знания на практике. Эти кандидаты должны уметь создавать и редактировать документы из 2-3 страниц для различных целей и ситуаций. Примерами могут служить отчеты, информационные бюллетени с несколькими колонками, анкеты и деловые письма, оформленные на профессиональном уровне. Экзамен рассчитан на учащихся, конторских работников, преподавателей и представителей других профессий.
+subTitle: От кандидатов базового уровня, намеревающихся сдать экзамен по Microsoft Word 2013, требуются знания основ работы в среде Word и способность самостоятельно выполнять задачи. Кандидаты должны знать правила применения основных функций Word 2013 и продемонстрировать эти знания на практике. Эти кандидаты должны уметь создавать и редактировать документы из 2-3 страниц для различных целей и ситуаций. Примерами могут служить отчеты, информационные бюллетени с несколькими колонками, анкеты и деловые письма, оформленные на профессиональном уровне. Экзамен рассчитан на учащихся, конторских работников, преподавателей и представителей других профессий.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJC
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=77-418&examname=Word%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-418
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nb
+- nl
+- pl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- Создание и управление документами
+- Форматирование текста, параграфов и разделов
+- Создание таблиц и списков
+- Применение ссылок
+- Вставка и форматирование объектов
+roles:
+- business-user
+products:
+- office
+relatedCertifications:
+- related:
+    uid: certification.microsoft-office-specialist-certification-2013
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

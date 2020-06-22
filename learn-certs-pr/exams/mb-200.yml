@@ -1,54 +1,54 @@
 ### YamlMime:Examination
 title: Microsoft Power Platform + Dynamics 365 Core
 metadata:
-  title: 'Экзамен MB-200: Microsoft Power Platform + Dynamics 365 Core'
-  description: 'Экзамен MB-200: Microsoft Power Platform + Dynamics 365 Core'
+  title: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
+  description: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
 uid: exam.mb-200
 displayName: MB-200
-summary: >-
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>Содержание этого экзамена было обновлено 1 мая 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.<br/><br/></div>
+  </div>
+
   Кандидаты на этот экзамен являются функциональными консультантами, которые имеют доступ к функциям и функциям лицензированного продукта предприятия. Как функциональный консультант, кандидат знает о связанных версиях функций, но в основном не работает с этими продуктами.
 
-  <br/>
-
-
   Кандидаты несут основную ответственность за настройку системы в соответствии с потребностями клиентов, выполнение задач проектирования, связанных с внедрением новых функций и возможностей, а также внедрение и тестирование изменений системы.
-
 
   Кандидаты планируют функциональный дизайн решений, реализуют процесс управления жизненным циклом приложений (ALM), переносят данные и объекты из устаревших и внешних систем, интегрируют Power Platform с другими системами и управляют средой Power Platform.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: выполнение обнаружения, планирования и анализа; управление дизайном пользовательского интерфейса; управление объектами и данными; обеспечение безопасности; реализация интеграции, а также выполнение развертывания и тестирования решений.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
+practiceTestUrl: https://www.mindhub.com/p/MU-MB-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-200&examname=Exam%20MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-200&examname=Экзамен%20MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 levels:
 - intermediate
 skills:
-- Выполнение обнаружения, планирования и анализа (5-10%)
-- Управление дизайном пользовательского интерфейса (20-25%)
+- Содержание этого экзамена было обновлено 1 мая 2020 года. Пожалуйста, загрузите схему навыков, оцениваемых на экзамене, ниже, чтобы увидеть, что изменилось.
+- Осуществление обнаружения, планирования и анализа (5-10%)
+- Управление пользовательским интерфейсом (20-25%)
 - Управление объектами и данными (15-20%)
-- Обеспечение безопасности (5-10%)
+- Реализация безопасности (5-10%)
 - Реализация интеграции (15-20%)
 - Выполнение развертывания и тестирования решений (25-30%)
 roles:
 - functional-consultant
-exams:
-- uid: exam.mb-210
-- uid: exam.mb-220
-- uid: exam.mb-230
-- uid: exam.mb-240
 products:
 - dynamics
 - dynamics-sales
 - dynamics-marketing
 - dynamics-field-service
 - dynamics-customer-service
+exams:
+- uid: exam.mb-210
+- uid: exam.mb-220
+- uid: exam.mb-230
+- uid: exam.mb-240
 courses:
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
+- uid: course.mb-200t00
 paths:
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
@@ -64,20 +64,24 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-customer-service
 resources:
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Повтор экзамена
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: ../help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Запрос специальных условий
   description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md
+

@@ -1,44 +1,47 @@
 ### YamlMime:Examination
 title: Deploying Microsoft 365 Teamwork
 metadata:
-  title: 'Экзамен MS-300: Deploying Microsoft 365 Teamwork'
-  description: 'Экзамен MS-300: Deploying Microsoft 365 Teamwork'
+  title: 'Exam MS-300: Deploying Microsoft 365 Teamwork'
+  description: 'Exam MS-300: Deploying Microsoft 365 Teamwork'
 uid: exam.ms-300
 displayName: MS-300
-summary: >-
-  Кандидатами на этот экзамен являются администраторы совместной работы, которые отвечают за настройку, развертывание и управление рабочими нагрузками Office 365 и Azure, ориентированными на эффективную совместную работу и внедрение. Администраторы совместной работы управляют приложениями, службами и вспомогательной инфраструктурой в соответствии с бизнес-требованиями. Администратор совместной работы должен иметь возможность развертывать, управлять, переносить и защищать SharePoint (в сети, локально и гибридно), OneDrive и группы.
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>Содержание этого экзамена было обновлено 31 август 2020 года. Примечание&#58; Экзамен будет отменен в 23&#58;59 по центральному стандартному времени.<br/></div>
+  </div>
 
+  Кандидатами на этот экзамен являются администраторы совместной работы, которые отвечают за настройку, развертывание и управление рабочими нагрузками Office 365 и Azure, ориентированными на эффективную совместную работу и внедрение. Администраторы совместной работы управляют приложениями, службами и вспомогательной инфраструктурой в соответствии с бизнес-требованиями. Администратор совместной работы должен иметь возможность развертывать, управлять, переносить и защищать SharePoint (в сети, локально и гибридно), OneDrive и группы.
   <br/>
 
-
   Администратор совместной работы участвует в принятии решений, касающихся управления, и сотрудничает с другими администраторами в целях осуществления многих решений, принимаемых органами управления. Администратор совместной работы сотрудничает с Администратором обмена сообщениями для настройки параметров и безопасности, связанных с задачами электронной почты, голосовым администратором для интеграции голосовых функций в организации и администратором безопасности для обеспечения сквозной безопасности.
-
 
   Кандидаты на этот экзамен должны иметь фундаментальное понимание точек интеграции со следующими приложениями и службами&#58; Office, Power Apps, Flow, Yammer, Microsoft Graph, Stream, Planner и Project. Администратор понимает, как интегрировать сторонние приложения и сервисы, в том числе бизнес-приложения. Кандидаты также понимают принципы управления SQL Server, Azure Active Directory, PowerShell, сети, администрирование сервера Windows, систему доменных имен (DNS), управление мобильными устройствами Active Directory и альтернативные операционные системы.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: настройка и управление SharePoint Online; настройка решения OneDrive для бизнеса и управление им; настройка и управление командами; а также настройка и управление интеграциями рабочей нагрузки.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI2
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-300&examname=Exam%20MS-300:%20Deploying%20Microsoft%20365%20Teamwork&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-300
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-300&examname=Экзамен%20MS-300:%20Deploying%20Microsoft%20365%20Teamwork&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fms-300
 levels:
 - intermediate
 skills:
+- 'Примечание: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
 - Настройка и управление SharePoint Online(35-40%)
 - Настройка решения OneDrive для бизнеса и управление им (25-30%)
 - Настройка и управление командами (20-25%)
 - Настройка и управление интеграциями рабочей нагрузки (15-20%)
 roles:
 - administrator
-exams:
-- uid: exam.ms-301
 products:
 - m365
 - office-sp
 - office-onedrive
 - office-teams
 - office-yammer
+exams:
+- uid: exam.ms-301
 courses:
 - uid: course.ms-300t01
 - uid: course.ms-300t02
@@ -49,23 +52,27 @@ relatedCertifications:
     uid: certification.m365-teamwork-administrator
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Teamwork Administrator Associate.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Teamwork Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Повтор экзамена
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: ../help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Запрос специальных условий
   description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md
+

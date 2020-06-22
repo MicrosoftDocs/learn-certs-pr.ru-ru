@@ -1,0 +1,46 @@
+### YamlMime:Examination
+title: Microsoft Outlook (Outlook and Outlook 2019)
+metadata:
+  title: 'MO-400: Microsoft Outlook (Outlook and Outlook 2019)'
+  description: 'MO-400: Microsoft Outlook (Outlook and Outlook 2019)'
+uid: exam.mo-400
+displayName: MO-400
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Экзамен также оценивает умение улучшать профессиональную переписку, создавать календари и назначать встречи. Примеры приложений включают координацию ресурсов здания, отправку сообщений для маркетинговых кампаний, планирование собраний персонала и назначение элементов мероприятия собрания. Ожидается, что кандидаты продемонстрируют правильное применение основных функций Outlook и выполнят задачи самостоятельно.
+subTitle: Этот экзамен оценивает умение настраивать содержимое сообщений в формате пользовательского интерфейса Outlook, создавать или вставлять графические элементы, а также отправлять и отвечать на электронные письма и приглашения на встречи. Экзамен также оценивает умение улучшать профессиональную переписку, создавать календари и назначать встречи. Примеры приложений включают координацию ресурсов здания, отправку сообщений для маркетинговых кампаний, планирование собраний персонала и назначение элементов мероприятия собрания.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4mURd
+scheduleExamUrl: http://www.certiport.com/locator
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Управление настройками и процессами Outlook (15-20%)
+- Управление сообщениями (30-35%)
+- Управление расписаниями (30-35%)
+- Управление контактами и задачами (15-20%)
+roles:
+- business-user
+products:
+- office
+- office-outlook
+relatedCertifications:
+- related:
+    uid: certification.mos-outlook-2019
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
+  href: ../certification-exam-policies.md
+

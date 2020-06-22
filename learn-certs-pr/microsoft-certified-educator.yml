@@ -5,23 +5,22 @@ metadata:
   description: Microsoft Certified Educator
 uid: certification.microsoft-certified-educator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: >-
+summary: |-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+
   Сертификат Microsoft Certified Educator (MCE) подтверждает общую техническую грамотность преподавателей, необходимую для предоставления учащимся комплексного обучения с возможностью адаптации под конкретные задачи.
-
   Сертификация MCE подходит как для учащихся и преподавателей педагогических учебных заведений, так и для работников системы образования.
-
 
   Компания Microsoft предоставляет комплексную программу электронного обучения 21CLD, упрощающую подготовку преподавателей к этому сложному экзамену.
 
-
-  **Примечание** На экзамене по программе Microsoft Certified Educator оценивается понимание преподавателями принципов применения технических средств в шести предметных областях, а не уровень владения конкретными техническими средствами. Сведения о получении сертификатов, предоставляющих право на обучение работе с конкретными приложениями и технологиями Microsoft, см. на странице [Microsoft Certified Trainer](https://www.microsoft.com/learning/mct-certification.aspx).
+  **Примечание** На экзамене по программе Microsoft Certified Educator оценивается понимание преподавателями принципов применения технических средств в шести предметных областях, а не уровень владения конкретными техническими средствами. Если вы ищете информацию о получении сертификата для обучения тем или иным продуктам и технологиям Microsoft, посетите страницу [Microsoft Certified Trainer](https://www.microsoft.com/learning/mct-certification.aspx).
 subTitle: Сертификат Microsoft Certified Educator (MCE) подтверждает общую техническую грамотность преподавателей, необходимую для предоставления учащимся комплексного обучения с возможностью адаптации под конкретные задачи.
 levels:
 - advanced
 skills:
 - Содействие совместной работе студентовx
 - Содействие квалифицированной коммуникации
-- Способствование саморегулированию
+- Способствование саморегуляцию
 - Способствование решению реальных проблем и применению инноваций
 - Способствование использованию студентами информационных и коммуникационных инструментов (ICT)
 - Использование ICT с целью стать эффетивным преподавателем
@@ -30,6 +29,7 @@ roles:
 type: mce
 products:
 - windows
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHlT
 exams:
 - uid: exam.62-193
 resources:
@@ -38,7 +38,8 @@ resources:
   href: https://education.microsoft.com/GetTrained/ITL-Research
 - title: Учебно-методическое пособие
   description: Поиск учебных материалов для подготовки к экзамену
-  href: https://aka.ms/MCEStudyGuide
-- title: Повтор экзамена
+  href: http://aka.ms/MCEStudyGuide
+- title: Exam Replay
   description: Набор материалов в электронном виде для компании Teach the Future Now (плакат, рекламный проспект и предметная область знаний для экзамена MCE)
-  href: https://aka.ms/MCEAssets
+  href: http://aka.ms/MCEAssets
+

@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: 'Microsoft Azure Data Fundamentals (beta)'
+metadata:
+  title: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
+  description: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
+uid: exam.dp-900
+displayName: DP-900
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Кандидаты на этот экзамен должны иметь базовые знания основных понятий данных и того, как они реализуются с использованием служб данных Microsoft Azure.
+
+  Этот экзамен предназначен для кандидатов, начинающих работать с данными в облаке.
+
+  Кандидаты должны быть знакомы с понятиями реляционных и нереляционных данных, а также с различными типами рабочих нагрузок данных, такими как транзакционные или аналитические.
+
+  Сертификацию “Основы данных Azure” можно использовать для подготовки к получению других сертификатов Azure на основе ролей, таким как Azure Database Administrator Associate или Azure Data Engineer Associate, но это не является обязательным условием для любого из них.  
+
+  <div style='font-weight&#58; bold;'><br/>ПРИМЕЧАНИЕ&#58; Этот экзамен станет доступен ориентировочно 8 июня 2020 года.</div>
+subTitle: 'Этот экзамен будет доступен 8 июня 2020 года или около того. Докажите, что вы можете описать следующее: основные понятия данных; как работать с реляционными данными в Azure; как работать с нереляционными данными в Azure; аналитическая нагрузка на Azure.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
+locales:
+- en
+levels:
+- beginner
+skills:
+- Описание основных понятий данных (15-20%)
+- Описание того, как работать с реляционными данными в Azure (25-30%)
+- Описание того, как работать с нереляционными данными в Azure (25-30%)
+- Описание рабочую нагрузку аналитики в Azure (25-30%)
+roles:
+- data-engineer
+- database-administrator
+products:
+- azure
+relatedCertifications:
+- related:
+    uid: certification.azure-data-fundamentals
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Поддержка сертификационных экзаменов
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
+  href: ../certification-exam-policies.md
+

@@ -1,0 +1,56 @@
+### YamlMime:Examination
+title: Word 2010 Expert
+metadata:
+  title: 'Exam 77-887: Word 2010 Expert'
+  description: 'Exam 77-887: Word 2010 Expert'
+uid: exam.77-887
+displayName: 77-887
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Пользователи Microsoft Word 2010 экспертного уровня могут уверенно использовать программное обеспечение Word 2010 на функциональном уровне. Пользователи экспертного уровня работают с расширенными функциями Word 2010 для улучшения профессиональных документов, создания документов, готовых к публикации, и обеспечения эффективной совместной работы над проектами группового редактирования. Пользователи экспертного уровня изменяют параметры Word, чтобы настроить свою среду для удовлетворения различных потребностей и повышения производительности.
+subTitle: Пользователи Microsoft Word 2010 экспертного уровня могут уверенно использовать программное обеспечение Word 2010 на функциональном уровне. Пользователи экспертного уровня работают с расширенными функциями Word 2010 для улучшения профессиональных документов, создания документов, готовых к публикации, и обеспечения эффективной совместной работы над проектами группового редактирования. Пользователи экспертного уровня изменяют параметры Word, чтобы настроить свою среду для удовлетворения различных потребностей и повышения производительности.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy7
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=77-887&examname=Word%202010%20Expert&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-887
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+levels:
+- beginner
+skills:
+- Совместное использование и ведение документов (15-20%)
+- Форматирование содержания (25-30%)
+- Рецензирование и ссылки (20–25%)
+- Выполнение операций слияния почты (15-20%)
+- Управление макросами и формами (25-30%)
+roles:
+- business-user
+products:
+- office-word
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

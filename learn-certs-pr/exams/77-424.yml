@@ -1,0 +1,52 @@
+### YamlMime:Examination
+title: Access 2013
+metadata:
+  title: 'Exam 77-424: Access 2013'
+  description: 'Exam 77-424: Access 2013'
+uid: exam.77-424
+displayName: 77-424
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Этот экзамен предназначен для кандидатов, которые имеют основные знания работы в среде Access 2013, а также могут выполнять задачи независимо. Кандидаты должны знать правила применения основных функций Access 2013 и продемонстрировать эти знания на практике.
+subTitle: Этот экзамен предназначен для кандидатов, которые имеют основные знания работы в среде Access 2013, а также могут выполнять задачи независимо. Кандидаты должны знать правила применения основных функций Access 2013 и продемонстрировать эти знания на практике.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJp
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=77-424&examname=Access%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-424
+locales:
+- en
+- zh-cn
+- zh-tw
+- es
+- ja
+- ko
+- nl
+levels:
+- beginner
+skills:
+- Создание и управление базой данных (20-25%)
+- Построение таблиц (25-30%)
+- Создание запросов (15-20%)
+- Создание форм (15-20%)
+- Создание отчетов (15-20%)
+roles:
+- business-user
+products:
+- office-access
+relatedCertifications:
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

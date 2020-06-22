@@ -1,31 +1,28 @@
 ### YamlMime:Examination
 title: Microsoft Dynamics 365 Finance
 metadata:
-  title: 'Экзамен MB-310: Microsoft Dynamics 365 Finance'
-  description: 'Экзамен MB-310: Microsoft Dynamics 365 Finance'
+  title: 'MB-310: Microsoft Dynamics 365 Finance'
+  description: 'MB-310: Microsoft Dynamics 365 Finance'
 uid: exam.mb-310
 displayName: MB-310
-summary: >-
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
   Кандидатами на этот экзамен являются Функциональные консультанты, которые анализируют бизнес-требования и переводят эти требования в полностью готовые бизнес-процессы и решения, которые реализуют лучшие практики в отрасли. Кандидаты служат ключевым ресурсом при реализации и настройке приложений для соблюдения бизнес-требований.
-
   <br/>
-
 
   Кандидаты на этот экзамен обладают фундаментальным пониманием принципов бухгалтерского учета и финансовых операций предприятий, обслуживания клиентов, обслуживания на месте, производства, розничной торговли и концепций управления цепочками поставок.
-
   <br/>
 
-
   Кандидаты на этот экзамен обычно специализируются на одном или нескольких наборах функций Microsoft Dynamics 365 Finance, включая управление финансами, производством и цепочками поставок.
-
 
   Кандидаты должны обладать знаниями об основных принципах и практиках бухгалтерского учета.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: установка и настройка финансового управления; управление и применение общих процессов; внедрение и управление кредиторской и дебиторской задолженностью; управление бюджетированием и основными средствами.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHU
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-310&examname=Exam%20MB-310:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Financials&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-310
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-310&examname=Экзамен%20MB-310:%20Microsoft%20Dynamics%20365%20Finance&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-310
 levels:
 - intermediate
 skills:
@@ -35,15 +32,13 @@ skills:
 - Управление бюджетированием и основными средствами (15-20%)
 roles:
 - functional-consultant
-exams:
-- uid: exam.mb-300
 products:
 - dynamics
 - dynamics-finance
+exams:
+- uid: exam.mb-300
 courses:
-- uid: course.mb-310t01
-- uid: course.mb-310t02
-- uid: course.mb-310t03
+- uid: course.mb-310t00
 paths:
 - uid: learn-dynamics.configure-use-general-ledger-dynamics-365-finance-ops
 - uid: learn-dynamics.configure-use-cash-bank-management-tax-d365-finance-ops
@@ -57,23 +52,27 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-financials
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Помощник функционального консультанта по Dynamics 365 Finance​.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate​.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svL
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Повтор экзамена
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: ../help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Запрос специальных условий
   description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md
+

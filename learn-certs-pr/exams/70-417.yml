@@ -1,0 +1,88 @@
+### YamlMime:Examination
+title: Upgrading Your Skills to MCSA Windows Server 2012
+metadata:
+  title: 'Exam 70-417: Upgrading Your Skills to MCSA Windows Server 2012'
+  description: 'Exam 70-417: Upgrading Your Skills to MCSA Windows Server 2012'
+uid: exam.70-417
+displayName: 70-417
+summary: |+
+  <div><div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
+  </div>
+
+  Этот экзамен предназначен для IT-специалистов, которые хотят подтвердить навыки и знания, необходимые для внедрения основных служб инфраструктуры в Windows Server 2012. Кандидаты должны иметь сертификат Windows Server 2008, Windows Server 2003, Windows Server 2000 или Windows XP&#58;
+  - MCSA&#58; Windows Server 2008
+  - MCITP&#58; Server Administrator on Windows Server 2008
+  - MCITP&#58; Enterprise Administrator on Windows Server 2008
+  - MCITP&#58; Virtualization Administrator on Windows Server 2008 R2
+  - MCITP&#58; Enterprise Messaging Administrator 2010
+  - MCITP&#58; Lync Server Administrator 2010
+  - MCITP&#58; SharePoint Administrator 2010
+  - MCITP&#58; Enterprise Desktop Administrator on Windows 7
+  - MCDST&#58; Windows XP
+  - MCSE&#58; Windows 2000
+  - MCSA Windows 2000
+  - MCSA&#58; Security on Windows 2000
+  - MCSA&#58; Security on Windows 2003
+  - MCSA&#58; Windows Server 2003
+  - MCSE&#58; Security on Windows 2000
+  - MCSE&#58; Security on Windows 2003
+  - MCSE&#58; Windows Server 2003
+  - MCSA&#58; Messaging on Windows Server 2000
+  - MCSA&#58; Messaging on Windows Server 2003
+  - MCSE&#58; Messaging on Windows Server 2000
+  - MCSE&#58; Messaging on Windows Server 2003
+
+  <div style='font-weight&#58; bold;'><br/>Этот экзамен был обновлен и теперь охватывает последние обновления технологий в Windows Server 2012 R2 и System Center 2012 R2. Дополнительную информацию можно найти на страницах сведений об экзамене для экзаменов <a href='/learn/certifications/exams/70-410'>70-410</a>, <a href='/learn/certifications/exams/70-411'>70-411</a>, и <a href='/learn/certifications/exams/70-412'>70-412</a>.</div>
+subTitle: 'Этот экзамен предназначен для IT-специалистов, которые хотят подтвердить навыки и знания, необходимые для внедрения основных служб инфраструктуры в Windows Server 2012. Кандидаты должны иметь сертификат Windows Server 2008, Windows Server 2003, Windows Server 2000 или Windows XP.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixY
+practiceTestUrl: https://www.mindhub.com/70-417-Upgrading-Your-Skills-to-MCSA-Windows-Srvr-p/mu-70-417_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=70-417&examname=Upgrading%20Your%20Skills%20to%20MCSA%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-417
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- Установка и настройка серверов
+- Настройка ролей и функций серверов
+- Настройка Hyper-V
+- Установка и администрирование Active Directory
+- Развертывание, управление и обслуживание серверов
+- Настройка сетевых служб и доступа к сети
+- Настройка инфраструктуры сервера сетевых политик
+- Настройка и управление Active Directory
+- Настройка и управление групповой политикой
+- Настройка и управление высокой доступностью
+- Настройка решений для файлов и хранилища
+- Внедрение непрерывности бизнеса и аварийного восстановления
+- Настройка сетевых служб
+- Настройка решений для доступа к данным и защиты информации
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20417
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

@@ -2,14 +2,20 @@
 title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Administrator Associate'
-  description: 'Azure Administrators [Администратор] отвечает за реализацию, мониторинг и обслуживание решений Microsoft Azure, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью.'
+  description: 'Администраторы Azure внедряют, управляют и контролируют среду Microsoft Azure в организации.'
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></font></div>
 
-  Azure Administrators [Администратор] отвечает за реализацию, мониторинг и обслуживание решений Microsoft Azure, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью.
-subTitle: Azure Administrators [Администратор] отвечает за реализацию, мониторинг и обслуживание решений Microsoft Azure, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью.
+  Кандидаты на сертификацию администратора Azure Administrator Associate должны обладать специальными знаниями по внедрению, управлению и мониторингу среды Microsoft Azure в организации.
+
+  Обязанности этой роли включают реализацию, управление и мониторинг удостоверений, управления, хранения, вычислений и виртуальных сетей в облачной среде, а также предоставление, форматирование, мониторинг и настройку ресурсов, когда это необходимо.
+
+  Администратор Azure часто выступает в составе большой группы, занимающейся реализацией облачной инфраструктуры вашей организации.
+
+  Кандидат на получение этого сертификата должен обладать практическим опытом администрирования Azure не менее шести месяцев, а также должен хорошо понимать основные службы Azure, рабочие нагрузки Azure, безопасность и управление. Кроме того, эта роль должна иметь опыт использования PowerShell, Azure CLI, портала Azure и шаблонов Azure Resource Manager.
+subTitle: Администраторы Azure внедряют, управляют и контролируют среду Microsoft Azure в организации.
 levels:
 - intermediate
 skills:
@@ -29,34 +35,33 @@ products:
 - azure-virtual-network
 - azure-resource-manager
 courses:
+- uid: course.az-010t00
 - uid: course.az-104t00
 paths:
-- uid: learn.administer-infrastructure-resources-in-azure
-- uid: learn.architect-storage-infrastructure
-- uid: learn.architect-network-infrastructure
-- uid: learn.architect-infrastructure-operations
-- uid: learn.architect-compute-infrastructure
-- uid: learn.architect-migration-bcdr
-- uid: learn.manage-resources-in-azure
-- uid: learn.security.manage-identity-and-access
-- uid: learn.security.manage-security-operations
-- uid: learn.security.implement-resource-mgmt-security
-- uid: learn.administer-containers-in-azure
+- uid: learn.az104-admin-prerequisites
+- uid: learn.az-104-manage-identities-governance
+- uid: learn.az-104-manage-storage
+- uid: learn.az-104-manage-compute-resources
+- uid: learn.az-104-manage-virtual-networks
+- uid: learn.az-104-monitor-backup-resources
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF
 exams:
 - uid: exam.az-104
 resources:
+- title: Плакат с сертификатами Azure
+  description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации
-  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.

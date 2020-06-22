@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Excel 2013 Expert Part Two
+metadata:
+  title: 'Exam 77-428: Excel 2013 Expert Part Two'
+  description: 'Exam 77-428: Excel 2013 Expert Part Two'
+uid: exam.77-428
+displayName: 77-428
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Кандидаты уровня Expert (Эксперт) на прохождение экзамена Excel 2013 должны хорошо знать основы работы в среде Excel и быть способны обучать других специалистов правильному использованию возможностей Excel 2013 пакета Office Professional Plus. Кандидаты должны знать и уметь использовать расширенные и специализированные функций приложения.
+
+  Кандидаты должны уметь создавать, контролировать и распространять профессиональные электронные таблицы, предназначенные для различных специализированных целей и областей применения. Кроме того, они должны уметь настраивать среды Excel для обеспечения соответствия требованиям и повышения эффективности. Примеры книги содержат пользовательские бизнес-шаблоны, несколько осевых финансовых диаграмм, таблицы амортизации и расписания инвентаризации. Экзамен рассчитан на бухгалтеров, финансовых аналитиков, специалистов по анализу данных, представителей коммерческих банков и других специалистов.
+subTitle: Кандидаты уровня Expert (Эксперт) на прохождение экзамена Excel 2013 должны хорошо знать основы работы в среде Excel и быть способны обучать других специалистов правильному использованию возможностей Excel 2013 пакета Office Professional Plus. Кандидаты должны знать и уметь использовать расширенные и специализированные функций приложения.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJE
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=77-428&examname=Excel%202013%20Expert%20Part%20Two&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-428
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- Управление книгами и общий доступ к книгам
+- Применение пользовательских форматов и макетов
+- Создание расширенных формул
+- Создание расширенных диаграмм и таблиц
+roles:
+- business-user
+products:
+- office-excel
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

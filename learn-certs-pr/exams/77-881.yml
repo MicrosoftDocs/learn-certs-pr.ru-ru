@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Word 2010
+metadata:
+  title: 'Exam 77-881: Word 2010'
+  description: 'Exam 77-881: Word 2010'
+uid: exam.77-881
+displayName: 77-881
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Пользователь Microsoft Office Word 2010 базового уровня должен уметь пользоваться программным обеспечением Microsoft Office Word 2010 на функциональном уровне. Он должен знать и уметь использовать не менее 80 процентов функций и возможностей Microsoft Office Word 2010. Пользователь базового уровня должен уметь использовать Microsoft Office Word 2010 для создания и редактирования профессионально выглядящих документов для различных целей и ситуаций. Пользователи включают людей самых разных профессий и должностей почти из всех областей профессиональной, студенческой и личной жизни.
+subTitle: Пользователь Microsoft Office Word 2010 базового уровня должен уметь пользоваться программным обеспечением Microsoft Office Word 2010 на функциональном уровне. Он должен знать и уметь использовать не менее 80 процентов функций и возможностей Microsoft Office Word 2010. Пользователь базового уровня должен уметь использовать Microsoft Office Word 2010 для создания и редактирования профессионально выглядящих документов для различных целей и ситуаций. Пользователи включают людей самых разных профессий и должностей почти из всех областей профессиональной, студенческой и личной жизни.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjX
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=77-881&examname=Word%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-881
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- Совместное использование и ведение документов
+- Форматирование содержимого
+- Применение макета страницы и повторно используемого содержимого
+- Включение иллюстраций и графики в документ
+- Корректура документов
+- Применение ссылок и гиперссылок
+- Выполнение операций слияния почты
+roles:
+- business-user
+products:
+- office-word
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

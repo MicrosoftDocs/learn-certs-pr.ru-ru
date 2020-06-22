@@ -5,23 +5,36 @@ metadata:
   description: 'MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)'
 uid: exam.mo-300
 displayName: MO-300
-summary: Человек, получивший этот сертификат прошел около 150 часов обучения и практического опыта работы с продуктом, обладает подтвержденной компетенцией на уровне отраслевых партнеров и может найти работу на рынке. Они могут продемонстрировать правильное применение основных функций PowerPoint и могут выполнять задачи самостоятельно.
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Этот экзамен охватывает умение создавать и управлять презентациями, вставками и форматированием форм и слайдов, создавать слайды, применять переходы и анимацию, а также управлять несколькими презентациями. Примеры презентаций включают презентации профессионального уровня, обучение сотрудников, учебные материалы и слайд-шоу в киосках. Ожидается, что кандидаты продемонстрируют правильное применение основных функций PowerPoint и выполнят задачи самостоятельно.
 subTitle: Этот экзамен оценивает умение кандидата создавать, редактировать и улучшать презентаций и слайд-шоу, включая умение создавать и управлять презентациями, вставлять и форматировать формы и слайды, создавать содержимое слайдов, применять переходы и анимацию, а также управлять несколькими презентациями. Примеры презентаций включают презентации профессионального уровня, обучение сотрудников, учебные материалы и слайд-шоу в киосках.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8R
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- en-my
+- de
+- es
+- id-id
+- ko
+- nl
+- it
+- ru
+- fr
+- pt-br
 levels:
 - intermediate
 skills:
-- Управление несколькими презентациями
+- Управление презентациями
 - Управление слайдами
-- Вставка и форматирование текста, фигур и изображений
-- Вставка таблиц, диаграмм, SmartArt, 3D-моделей и мультимедиа
-- Применение переходов и анимации
+- Вставьте и отформатируйте текст, фигуры и изображения
+- Вставка таблиц, диаграмм, smartArt, 3D-моделей и мультимедиа
+- применять переходы и анимацию
 roles:
 - developer
 products:
@@ -31,7 +44,7 @@ relatedCertifications:
 - related:
     uid: certification.mos-powerpoint-2019
 resources:
-- title: Руководство по обучению и сертификации
+- title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Панель управления сертификацией
@@ -39,7 +52,8 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Запрос специальных условий
   description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md
+

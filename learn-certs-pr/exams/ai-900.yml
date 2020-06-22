@@ -1,0 +1,78 @@
+### YamlMime:Examination
+title: 'Microsoft Azure AI Fundamentals (beta)'
+metadata:
+  title: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
+  description: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
+uid: exam.ai-900
+displayName: AI-900
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Кандидаты на этот экзамен должны обладать базовыми знаниями о понятиях машинного обучения (ML) и искусственного интеллекта (AI) и связанных с этим службах Microsoft Azure.
+
+  Этот экзамен дает возможность продемонстрировать знания об общих рабочих нагрузках ML и AI и о том, как их реализовать в Azure.  
+
+  Этот экзамен предназначен для кандидатов с техническим и нетехническим образованием. Опыт работы с данными и разработки программного обеспечения не требуется; однако, некоторые общие знания или опыт программирования будут полезны.  
+
+  Основы Azure AI можно использовать для подготовки к получению других сертификатов на основе ролей Azure, таким как Azure Data Scientist Associate или Azure AI Engineer Associate, но это не является обязательным условием для любого из них.  
+
+  <div style='font-weight&#58; bold;'><br/>ПРИМЕЧАНИЕ&#58; Этот экзамен станет доступен ориентировочно 8 июня 2020 года.</div>
+subTitle: 'Этот экзамен будет доступен 8 июня 2020 года или около того. Докажите, что вы можете описать следующее: Рабочие нагрузки и особенности ИИ; фундаментальные принципы машинного обучения на Azure; особенности рабочих нагрузок компьютерного зрения на Azure; особенности диалоговых рабочих нагрузок AI в Azure.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
+locales:
+- en
+levels:
+- beginner
+skills:
+- Описание рабочих нагрузок и особенностей AI (15-20%)
+- Описание основных принципов машинного обучения на Azure (30-35%)
+- Описание особенностей рабочих нагрузок компьютерного зрения в Azure (15-20%)
+- Описание особенностей рабочих нагрузок диалогового AI в Azure (15-20%)
+roles:
+- ai-engineer
+- data-scientist
+- developer
+- solution-architect
+products:
+- azure
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-form-recognizer
+- azure-language-understanding
+- azure-machine-learning
+- azure-qna-maker
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator-speech
+- azure-translator-text
+relatedCertifications:
+- related:
+    uid: certification.azure-ai-fundamentals
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Поддержка сертификационных экзаменов
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
+  href: ../certification-exam-policies.md
+

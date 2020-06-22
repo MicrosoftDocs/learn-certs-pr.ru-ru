@@ -1,0 +1,97 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform App Maker (beta)'
+metadata:
+  title: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
+  description: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
+uid: exam.pl-100
+displayName: PL-100
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+    
+  Производители приложений создают решения для упрощения, автоматизации и преобразования задач и процессов для себя и своей команды, и в этом они обладают глубокими знаниями в области решений. Кандидаты должны разбираться в ключевых задачах технического бизнес-аналитика, таких как моделирование данных, базовый дизайн UX, анализ требований, анализ процессов и т. д.<br/><br/>
+
+  Разработчики приложений создают и обеспечивают выполнение бизнес-процессов, структурирует цифровой сбор информации, повышает эффективность повторяемых задач и автоматизирует бизнес-процессы.
+
+  Разработчики приложений используют инструменты Power Platform для решения бизнес-задач. Они могут иметь опыт работы с Visual Basic для приложений, сводными таблицами Excel, командами и другими инструментами. Они должны иметь базовое понимание моделей данных, пользовательского интерфейса и процессов. Разработчики приложений знают о возможностях и ограничениях доступных инструментов и понимают, как их применять.
+
+  Разработчики приложений ориентированы на самостоятельную работу и на решение задач. Возможно они не проходили формальное обучение по ИТ, но им удобно использовать технологии для решения бизнес-задач и они настроены на личностный рост. Они понимают оперативную потребность и видят желаемый результат. Они подходят к проблемам с использованием поэтапных и итеративных стратегий.  
+
+  <div style='font-weight&#58; bold;'><br/>Примечание. Этот экзамен будет доступен примерно в июле 2020 года.</div>
+subTitle: 'Этот экзамен будет доступен в июле 2020 года. Этот экзамен оценивает вашу способность выполнять следующие технические задачи: проектирование решений; создание решений; анализ данных; внедрение решений и управление ими.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Проектирование решений (10-15%)
+- Создание решений (50-55%)
+- Анализ данных (5-10%)
+- Внедрение решений и управление ими (15-20%)
+roles:
+- business-analyst
+- business-owner
+- business-user
+- data-analyst
+- developer
+- devops-engineer
+- functional-consultant
+- maker
+- technology-manager
+products:
+- dynamics
+- office
+- office-access
+- office-excel
+- office-exchange-server
+- office-365
+- office-365-atp
+- office-add-ins
+- office-onedrive
+- office-onenote
+- office-outlook
+- office-planner
+- office-powerpoint
+- office-project
+- office-project-server
+- office-publisher
+- office-sp
+- office-sp-designer
+- office-teams
+- office-visio
+- office-word
+- power-platform
+- ai-builder
+- common-data-service
+- forms-pro
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+relatedCertifications:
+- related:
+    uid: certification.power-platform-app-maker
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Поддержка сертификационных экзаменов
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
+  href: ../certification-exam-policies.md
+

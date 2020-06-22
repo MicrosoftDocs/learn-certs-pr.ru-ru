@@ -1,20 +1,18 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
+title: 'Microsoft Dynamics 365 + Power Platform Solution Architect'
 metadata:
-  title: 'Exam MB-600: Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
-  description: 'Exam MB-600: Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
+  title: 'Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
+  description: 'Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
 uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
 
-  Архитекторы решений для приложений, основанных на моделях Microsoft Power Apps в Dynamics 365, ведут успешные реализации и фокусируются на том, чтобы решения удовлетворяли более широкие деловые и технические потребности организаций.
+  Архитекторы решений для Microsoft Dynamics 365 + Power Platform ведут успешные внедрения и фокусируются на том, как решения удовлетворяют более широкие деловые и технические потребности организаций.
 
   Архитектор решений обладает функциональными и техническими знаниями о приложениях на основе моделей Power Platform в Dynamics 365, таких как служба поддержки клиентов Dynamics 365, сервисная служба Dynamics 365, Marketing Dynamics 365 и Sales Dynamics 365, соответствующие облачные решения Microsoft и других сторонних технологий. Архитектор решений применяет знания и опыт на протяжении всего проекта. Архитектор решений выполняет упреждающую и профилактическую работу, чтобы повысить ценность инвестиций клиента и улучшить работу организации. Эта роль требует умения определять возможности для решения бизнес-задач.
 
   Архитекторы решений имеют опыт работы в функциональных и технических дисциплинах Power Platform и приложений в Dynamics 365, управляемых моделями. Архитекторы решений должны быть в состоянии содействовать проектным решениям на протяжении всего процесса разработки, конфигурации, интеграции, инфраструктуры, безопасности, доступности, хранения и управления изменениями. Эта роль уравновешивает бизнес-потребности проекта, отвечая функциональным и нефункциональным требованиям.
-
-  <div style='font-weight&#58; bold;'><br/>Баллы за бета-версии экзаменов не выставляются сразу, поскольку мы собираем информацию о качестве вопросов и экзамена. Узнайте больше о <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ценности и важности бета-версий экзаменов</a>.</div>
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: планирование решений и анализ требований; разработка решений; и внедрение решений.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
@@ -24,7 +22,6 @@ locales:
 levels:
 - advanced
 skills:
-- 'Примечание: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
 - Выполнение анализа решений и анализа требований (30-35%)
 - Разработка решения (45-50%)
 - Внедрение решения (20-25%)
@@ -42,19 +39,19 @@ relatedCertifications:
     uid: certification.power-apps-and-d365-solution-architect-expert
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов
-  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: ../help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.

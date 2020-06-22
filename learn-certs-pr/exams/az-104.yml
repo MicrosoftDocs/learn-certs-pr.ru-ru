@@ -5,8 +5,19 @@ metadata:
   description: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
 uid: exam.az-104
 displayName: AZ-104
-summary: "<div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>\r\n  \r\nAzure Administrator внедряет, управляет и следит за удостоверениями, управлением, хранением, вычислениями и виртуальными сетями в облачной среде. Администратор Azure обеспечивает, измеряет, отслеживает и корректирует ресурсы в зависимости от ситуации.\r\n\r\nКандидаты должны иметь минимум шесть месяцев практического опыта администриования Azure. Кандидаты должны хорошо понимать основные службы Azure, рабочие нагрузки Azure, безопасность и управление. Кандидаты на этот экзамен должны иметь опыт использования PowerShell, интерфейса командной строки, портала Azure и шаблонов ARM.\r\n\r\n<div style='font-weight&#58; bold;'><br/>Баллы за бета-версии экзаменов не выставляются сразу, поскольку мы собираем информацию о качестве вопросов и экзамена. Узнайте больше о <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">ценности и важности бета-версий экзаменов</a>.</div>"
-subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: управление удостоверениями  Azure; реализвация и управление хранилищем; развертывание вычислительных ресурсов Azure и управляение ими; настройка и управление виртуальными сетями; отслеживание и резервное сохранение ресурсов Azure.'
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Кандидаты на этот экзамен должны обладать специальными знаниями по внедрению, управлению и мониторингу среды Microsoft Azure в организации.
+
+  Обязанности администратора Azure включают реализацию, управление и мониторинг удостоверений, управления, хранения, вычислений и виртуальных сетей в облачной среде, а также предоставление, размер, мониторинг и настройку ресурсов, когда это необходимо.
+
+  Администратор Azure часто выступает в составе большой группы, занимающейся реализацией облачной инфраструктуры вашей организации.
+
+  Кандидат на этот экзамен должен обладать практическим опытом администрирования Azure не менее шести месяцев, а также хорошо разбираться в основных службах Azure, рабочих нагрузках Azure, безопасности и управлении. Кроме того, эта роль должна иметь опыт использования PowerShell, Azure CLI, портала Azure и шаблонов Azure Resource Manager.
+
+  <div style='font-weight&#58; bold;'><br/>Баллы за бета-версии экзаменов не выставляются сразу, поскольку мы собираем информацию о качестве вопросов и экзамена. Узнайте больше о <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ценности и важности бета-версий экзаменов</a>.</div>
+subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: управление удостоверениями Azure; реализация и управление хранилищем; развертывание вычислительных ресурсов Azure и управление ими; настройка и управление виртуальными сетями; отслеживание и резервное сохранение ресурсов Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
@@ -25,34 +36,30 @@ roles:
 products:
 - azure
 courses:
+- uid: course.az-010t00
 - uid: course.az-104t00
 paths:
-- uid: learn.administer-infrastructure-resources-in-azure
-- uid: learn.architect-storage-infrastructure
-- uid: learn.architect-network-infrastructure
-- uid: learn.architect-infrastructure-operations
-- uid: learn.architect-compute-infrastructure
-- uid: learn.architect-migration-bcdr
-- uid: learn.manage-resources-in-azure
-- uid: learn.security.manage-identity-and-access
-- uid: learn.security.manage-security-operations
-- uid: learn.security.implement-resource-mgmt-security
-- uid: learn.administer-containers-in-azure
+- uid: learn.az104-admin-prerequisites
+- uid: learn.az-104-manage-identities-governance
+- uid: learn.az-104-manage-storage
+- uid: learn.az-104-manage-compute-resources
+- uid: learn.az-104-manage-virtual-networks
+- uid: learn.az-104-monitor-backup-resources
 relatedCertifications:
 - related:
     uid: certification.azure-administrator
 resources:
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов
-  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: ../help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
